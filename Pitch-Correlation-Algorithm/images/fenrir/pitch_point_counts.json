@@ -1,0 +1,805 @@
+{
+  "counting_policy": "All pitch frames, including unvoiced frames (0 Hz). Sarah remains unchanged; aligned voice uses Sarah frame count.",
+  "images": [
+    {
+      "image": "Science_Technology/001.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Science_Technology/017.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 133,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Science_Technology/020.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 163,
+      "voice_before_resize": 142,
+      "sarah_after_resize": 163,
+      "voice_after_resize": 163
+    },
+    {
+      "image": "Science_Technology/021.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 139,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Science_Technology/023.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 137,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Science_Technology/028.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 129,
+      "voice_before_resize": 114,
+      "sarah_after_resize": 129,
+      "voice_after_resize": 129
+    },
+    {
+      "image": "Science_Technology/033.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 152,
+      "voice_before_resize": 139,
+      "sarah_after_resize": 152,
+      "voice_after_resize": 152
+    },
+    {
+      "image": "Science_Technology/049.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 120,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Science_Technology/058.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 169,
+      "voice_before_resize": 150,
+      "sarah_after_resize": 169,
+      "voice_after_resize": 169
+    },
+    {
+      "image": "Science_Technology/079.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 174,
+      "voice_before_resize": 154,
+      "sarah_after_resize": 174,
+      "voice_after_resize": 174
+    },
+    {
+      "image": "Sport/011.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 127,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Sport/018.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 120,
+      "voice_before_resize": 107,
+      "sarah_after_resize": 120,
+      "voice_after_resize": 120
+    },
+    {
+      "image": "Sport/020.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 110,
+      "voice_before_resize": 103,
+      "sarah_after_resize": 110,
+      "voice_after_resize": 110
+    },
+    {
+      "image": "Sport/033.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 146,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 146,
+      "voice_after_resize": 146
+    },
+    {
+      "image": "Sport/046.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 105,
+      "voice_before_resize": 95,
+      "sarah_after_resize": 105,
+      "voice_after_resize": 105
+    },
+    {
+      "image": "Sport/051.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 129,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 129,
+      "voice_after_resize": 129
+    },
+    {
+      "image": "Sport/080.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 144,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Sport/085.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 118,
+      "voice_before_resize": 107,
+      "sarah_after_resize": 118,
+      "voice_after_resize": 118
+    },
+    {
+      "image": "Sport/087.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 161,
+      "voice_before_resize": 146,
+      "sarah_after_resize": 161,
+      "voice_after_resize": 161
+    },
+    {
+      "image": "Sport/090.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 137,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 137,
+      "voice_after_resize": 137
+    },
+    {
+      "image": "Space/001.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 127,
+      "voice_before_resize": 110,
+      "sarah_after_resize": 127,
+      "voice_after_resize": 127
+    },
+    {
+      "image": "Space/002.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 116,
+      "voice_before_resize": 101,
+      "sarah_after_resize": 116,
+      "voice_after_resize": 116
+    },
+    {
+      "image": "Space/007.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 165,
+      "voice_before_resize": 159,
+      "sarah_after_resize": 165,
+      "voice_after_resize": 165
+    },
+    {
+      "image": "Space/020.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 133,
+      "voice_before_resize": 110,
+      "sarah_after_resize": 133,
+      "voice_after_resize": 133
+    },
+    {
+      "image": "Space/025.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 120,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 120,
+      "voice_after_resize": 120
+    },
+    {
+      "image": "Space/033.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Space/034.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 148,
+      "voice_before_resize": 137,
+      "sarah_after_resize": 148,
+      "voice_after_resize": 148
+    },
+    {
+      "image": "Space/043.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 156,
+      "voice_before_resize": 150,
+      "sarah_after_resize": 156,
+      "voice_after_resize": 156
+    },
+    {
+      "image": "Space/044.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 142,
+      "voice_before_resize": 135,
+      "sarah_after_resize": 142,
+      "voice_after_resize": 142
+    },
+    {
+      "image": "Space/056.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 133,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 133,
+      "voice_after_resize": 133
+    },
+    {
+      "image": "Nature/015.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 139,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 139,
+      "voice_after_resize": 139
+    },
+    {
+      "image": "Nature/017.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Nature/025.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 139,
+      "voice_before_resize": 120,
+      "sarah_after_resize": 139,
+      "voice_after_resize": 139
+    },
+    {
+      "image": "Nature/029.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Nature/030.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 163,
+      "voice_before_resize": 146,
+      "sarah_after_resize": 163,
+      "voice_after_resize": 163
+    },
+    {
+      "image": "Nature/035.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Nature/058.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 131,
+      "voice_before_resize": 122,
+      "sarah_after_resize": 131,
+      "voice_after_resize": 131
+    },
+    {
+      "image": "Nature/060.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 127,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 127,
+      "voice_after_resize": 127
+    },
+    {
+      "image": "Nature/081.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 135,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Nature/089.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 122,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Medical/008.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Medical/025.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 116,
+      "voice_before_resize": 101,
+      "sarah_after_resize": 116,
+      "voice_after_resize": 116
+    },
+    {
+      "image": "Medical/046.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 118,
+      "voice_before_resize": 97,
+      "sarah_after_resize": 118,
+      "voice_after_resize": 118
+    },
+    {
+      "image": "Medical/048.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 116,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 116,
+      "voice_after_resize": 116
+    },
+    {
+      "image": "Medical/052.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Medical/056.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 154,
+      "voice_before_resize": 139,
+      "sarah_after_resize": 154,
+      "voice_after_resize": 154
+    },
+    {
+      "image": "Medical/062.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 161,
+      "voice_before_resize": 144,
+      "sarah_after_resize": 161,
+      "voice_after_resize": 161
+    },
+    {
+      "image": "Medical/087.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 135,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Medical/088.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 148,
+      "voice_before_resize": 135,
+      "sarah_after_resize": 148,
+      "voice_after_resize": 148
+    },
+    {
+      "image": "Medical/097.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 125,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 125,
+      "voice_after_resize": 125
+    },
+    {
+      "image": "Feelings/018.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 120,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 120,
+      "voice_after_resize": 120
+    },
+    {
+      "image": "Feelings/022.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 148,
+      "voice_before_resize": 133,
+      "sarah_after_resize": 148,
+      "voice_after_resize": 148
+    },
+    {
+      "image": "Feelings/033.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 142,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 142,
+      "voice_after_resize": 142
+    },
+    {
+      "image": "Feelings/034.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 146,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 146,
+      "voice_after_resize": 146
+    },
+    {
+      "image": "Feelings/042.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 122,
+      "voice_before_resize": 110,
+      "sarah_after_resize": 122,
+      "voice_after_resize": 122
+    },
+    {
+      "image": "Feelings/050.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 127,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 127,
+      "voice_after_resize": 127
+    },
+    {
+      "image": "Feelings/079.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Feelings/082.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Feelings/091.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 133,
+      "voice_before_resize": 114,
+      "sarah_after_resize": 133,
+      "voice_after_resize": 133
+    },
+    {
+      "image": "Feelings/098.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 131,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 131,
+      "voice_after_resize": 131
+    },
+    {
+      "image": "Environment/003.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 129,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 129,
+      "voice_after_resize": 129
+    },
+    {
+      "image": "Environment/010.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 139,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 139,
+      "voice_after_resize": 139
+    },
+    {
+      "image": "Environment/024.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 116,
+      "voice_before_resize": 101,
+      "sarah_after_resize": 116,
+      "voice_after_resize": 116
+    },
+    {
+      "image": "Environment/040.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 120,
+      "voice_before_resize": 101,
+      "sarah_after_resize": 120,
+      "voice_after_resize": 120
+    },
+    {
+      "image": "Environment/047.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 148,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Environment/056.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 152,
+      "voice_before_resize": 135,
+      "sarah_after_resize": 152,
+      "voice_after_resize": 152
+    },
+    {
+      "image": "Environment/077.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 176,
+      "voice_before_resize": 163,
+      "sarah_after_resize": 176,
+      "voice_after_resize": 176
+    },
+    {
+      "image": "Environment/080.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 161,
+      "voice_before_resize": 150,
+      "sarah_after_resize": 161,
+      "voice_after_resize": 161
+    },
+    {
+      "image": "Environment/082.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Environment/089.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 152,
+      "voice_before_resize": 133,
+      "sarah_after_resize": 152,
+      "voice_after_resize": 152
+    },
+    {
+      "image": "Education/001.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 142,
+      "voice_before_resize": 122,
+      "sarah_after_resize": 142,
+      "voice_after_resize": 142
+    },
+    {
+      "image": "Education/004.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 122,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 122,
+      "voice_after_resize": 122
+    },
+    {
+      "image": "Education/014.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 146,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Education/020.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 137,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Education/021.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 129,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Education/024.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 161,
+      "voice_before_resize": 144,
+      "sarah_after_resize": 161,
+      "voice_after_resize": 161
+    },
+    {
+      "image": "Education/057.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 127,
+      "voice_before_resize": 116,
+      "sarah_after_resize": 127,
+      "voice_after_resize": 127
+    },
+    {
+      "image": "Education/074.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 146,
+      "voice_before_resize": 127,
+      "sarah_after_resize": 146,
+      "voice_after_resize": 146
+    },
+    {
+      "image": "Education/093.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 206,
+      "voice_before_resize": 191,
+      "sarah_after_resize": 206,
+      "voice_after_resize": 206
+    },
+    {
+      "image": "Education/095.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 120,
+      "voice_before_resize": 103,
+      "sarah_after_resize": 120,
+      "voice_after_resize": 120
+    },
+    {
+      "image": "Culture_Society/009.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 133,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Culture_Society/012.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 131,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 131,
+      "voice_after_resize": 131
+    },
+    {
+      "image": "Culture_Society/022.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 110,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Culture_Society/023.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 142,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 142,
+      "voice_after_resize": 142
+    },
+    {
+      "image": "Culture_Society/031.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 135,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 135,
+      "voice_after_resize": 135
+    },
+    {
+      "image": "Culture_Society/042.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 178,
+      "voice_before_resize": 159,
+      "sarah_after_resize": 178,
+      "voice_after_resize": 178
+    },
+    {
+      "image": "Culture_Society/046.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 146,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 146,
+      "voice_after_resize": 146
+    },
+    {
+      "image": "Culture_Society/047.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 148,
+      "voice_before_resize": 131,
+      "sarah_after_resize": 148,
+      "voice_after_resize": 148
+    },
+    {
+      "image": "Culture_Society/048.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 152,
+      "voice_before_resize": 133,
+      "sarah_after_resize": 152,
+      "voice_after_resize": 152
+    },
+    {
+      "image": "Culture_Society/061.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 139,
+      "voice_before_resize": 127,
+      "sarah_after_resize": 139,
+      "voice_after_resize": 139
+    },
+    {
+      "image": "Art/018.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 163,
+      "voice_before_resize": 152,
+      "sarah_after_resize": 163,
+      "voice_after_resize": 163
+    },
+    {
+      "image": "Art/019.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 142,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 142,
+      "voice_after_resize": 142
+    },
+    {
+      "image": "Art/027.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 127,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Art/032.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 129,
+      "voice_before_resize": 118,
+      "sarah_after_resize": 129,
+      "voice_after_resize": 129
+    },
+    {
+      "image": "Art/039.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 137,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 137,
+      "voice_after_resize": 137
+    },
+    {
+      "image": "Art/041.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 133,
+      "voice_before_resize": 112,
+      "sarah_after_resize": 133,
+      "voice_after_resize": 133
+    },
+    {
+      "image": "Art/043.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 159,
+      "voice_before_resize": 139,
+      "sarah_after_resize": 159,
+      "voice_after_resize": 159
+    },
+    {
+      "image": "Art/052.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 150,
+      "voice_before_resize": 137,
+      "sarah_after_resize": 150,
+      "voice_after_resize": 150
+    },
+    {
+      "image": "Art/064.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 144,
+      "voice_before_resize": 125,
+      "sarah_after_resize": 144,
+      "voice_after_resize": 144
+    },
+    {
+      "image": "Art/080.png",
+      "voice": "fenrir",
+      "sarah_before_resize": 133,
+      "voice_before_resize": 110,
+      "sarah_after_resize": 133,
+      "voice_after_resize": 133
+    }
+  ]
+}

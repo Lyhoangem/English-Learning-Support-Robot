@@ -1,0 +1,4169 @@
+[
+  {
+    "id": "Science_Technology/001",
+    "color": "pink",
+    "source_row": 2,
+    "source_id": 1,
+    "topic": "Science_Technology",
+    "sentence": "I use a computer at school.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "use",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "computer",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "school.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/017",
+    "color": "pink",
+    "source_row": 5,
+    "source_id": 17,
+    "topic": "Science_Technology",
+    "sentence": "A chip is inside the phone.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "chip",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "inside",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "phone.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/020",
+    "color": "pink",
+    "source_row": 6,
+    "source_id": 20,
+    "topic": "Science_Technology",
+    "sentence": "This website is easy to use.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "This",
+        "is_stressed": true
+      },
+      {
+        "word": "website",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "easy",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "use.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/021",
+    "color": "orange",
+    "source_row": 7,
+    "source_id": 21,
+    "topic": "Science_Technology",
+    "sentence": "I use an app to learn English.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "use",
+        "is_stressed": true
+      },
+      {
+        "word": "an",
+        "is_stressed": false
+      },
+      {
+        "word": "app",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "learn",
+        "is_stressed": true
+      },
+      {
+        "word": "English.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/023",
+    "color": "orange",
+    "source_row": 8,
+    "source_id": 23,
+    "topic": "Science_Technology",
+    "sentence": "I get a message from my friend.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "get",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "message",
+        "is_stressed": true
+      },
+      {
+        "word": "from",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "friend.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/028",
+    "color": "pink",
+    "source_row": 9,
+    "source_id": 28,
+    "topic": "Science_Technology",
+    "sentence": "Put the file in this folder.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "Put",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "file",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "this",
+        "is_stressed": false
+      },
+      {
+        "word": "folder.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/033",
+    "color": "pink",
+    "source_row": 10,
+    "source_id": 33,
+    "topic": "Science_Technology",
+    "sentence": "A quick search gives an answer.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "quick",
+        "is_stressed": true
+      },
+      {
+        "word": "search",
+        "is_stressed": true
+      },
+      {
+        "word": "gives",
+        "is_stressed": true
+      },
+      {
+        "word": "an",
+        "is_stressed": false
+      },
+      {
+        "word": "answer.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/049",
+    "color": "pink",
+    "source_row": 13,
+    "source_id": 49,
+    "topic": "Science_Technology",
+    "sentence": "The answer is on the screen.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "answer",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "screen.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/058",
+    "color": "pink",
+    "source_row": 15,
+    "source_id": 58,
+    "topic": "Science_Technology",
+    "sentence": "The phone is a useful invention.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "phone",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "useful",
+        "is_stressed": true
+      },
+      {
+        "word": "invention.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Science_Technology/079",
+    "color": "orange",
+    "source_row": 16,
+    "source_id": 79,
+    "topic": "Science_Technology",
+    "sentence": "A smart phone can do many things.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "smart",
+        "is_stressed": true
+      },
+      {
+        "word": "phone",
+        "is_stressed": true
+      },
+      {
+        "word": "can",
+        "is_stressed": false
+      },
+      {
+        "word": "do",
+        "is_stressed": true
+      },
+      {
+        "word": "many",
+        "is_stressed": false
+      },
+      {
+        "word": "things.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/011",
+    "color": "pink",
+    "source_row": 18,
+    "source_id": 11,
+    "topic": "Sport",
+    "sentence": "The players run on the field.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "players",
+        "is_stressed": true
+      },
+      {
+        "word": "run",
+        "is_stressed": true
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "field.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/018",
+    "color": "pink",
+    "source_row": 20,
+    "source_id": 18,
+    "topic": "Sport",
+    "sentence": "The score is two to one.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "score",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "two",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "one.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/020",
+    "color": "pink",
+    "source_row": 21,
+    "source_id": 20,
+    "topic": "Sport",
+    "sentence": "The ball is on the field.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "ball",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "field.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/033",
+    "color": "orange",
+    "source_row": 23,
+    "source_id": 33,
+    "topic": "Sport",
+    "sentence": "I buy a ticket for the match.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "buy",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "ticket",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "match.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/046",
+    "color": "pink",
+    "source_row": 25,
+    "source_id": 46,
+    "topic": "Sport",
+    "sentence": "We want to win the game.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "We",
+        "is_stressed": true
+      },
+      {
+        "word": "want",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "win",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "game.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/051",
+    "color": "pink",
+    "source_row": 27,
+    "source_id": 51,
+    "topic": "Sport",
+    "sentence": "We watch the match at home.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "We",
+        "is_stressed": true
+      },
+      {
+        "word": "watch",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "match",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "home.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/080",
+    "color": "pink",
+    "source_row": 28,
+    "source_id": 80,
+    "topic": "Sport",
+    "sentence": "A strong player can run far.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "strong",
+        "is_stressed": true
+      },
+      {
+        "word": "player",
+        "is_stressed": true
+      },
+      {
+        "word": "can",
+        "is_stressed": false
+      },
+      {
+        "word": "run",
+        "is_stressed": true
+      },
+      {
+        "word": "far.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/085",
+    "color": "pink",
+    "source_row": 29,
+    "source_id": 85,
+    "topic": "Sport",
+    "sentence": "We are ready for the match.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "We",
+        "is_stressed": true
+      },
+      {
+        "word": "are",
+        "is_stressed": false
+      },
+      {
+        "word": "ready",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "match.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/087",
+    "color": "pink",
+    "source_row": 30,
+    "source_id": 87,
+    "topic": "Sport",
+    "sentence": "This sport is safe for children.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "This",
+        "is_stressed": true
+      },
+      {
+        "word": "sport",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "safe",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "children.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Sport/090",
+    "color": "pink",
+    "source_row": 31,
+    "source_id": 90,
+    "topic": "Sport",
+    "sentence": "This game is easy to play.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "This",
+        "is_stressed": true
+      },
+      {
+        "word": "game",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "easy",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "play.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/001",
+    "color": "pink",
+    "source_row": 34,
+    "source_id": 1,
+    "topic": "Space",
+    "sentence": "The sun is big and hot.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "sun",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "big",
+        "is_stressed": true
+      },
+      {
+        "word": "and",
+        "is_stressed": false
+      },
+      {
+        "word": "hot.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/002",
+    "color": "pink",
+    "source_row": 35,
+    "source_id": 2,
+    "topic": "Space",
+    "sentence": "I see the moon at night.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "see",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "moon",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "night.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/007",
+    "color": "pink",
+    "source_row": 36,
+    "source_id": 7,
+    "topic": "Space",
+    "sentence": "Jupiter is a very big planet.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "Jupiter",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "very",
+        "is_stressed": false
+      },
+      {
+        "word": "big",
+        "is_stressed": true
+      },
+      {
+        "word": "planet.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/020",
+    "color": "pink",
+    "source_row": 41,
+    "source_id": 20,
+    "topic": "Space",
+    "sentence": "The sky is dark at night.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "sky",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "dark",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "night.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/025",
+    "color": "orange",
+    "source_row": 44,
+    "source_id": 25,
+    "topic": "Space",
+    "sentence": "There is no wind on the moon.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "There",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "no",
+        "is_stressed": true
+      },
+      {
+        "word": "wind",
+        "is_stressed": true
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "moon.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/033",
+    "color": "orange",
+    "source_row": 49,
+    "source_id": 33,
+    "topic": "Space",
+    "sentence": "The sun comes up in the morning.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "sun",
+        "is_stressed": true
+      },
+      {
+        "word": "comes",
+        "is_stressed": true
+      },
+      {
+        "word": "up",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "morning.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/034",
+    "color": "orange",
+    "source_row": 50,
+    "source_id": 34,
+    "topic": "Space",
+    "sentence": "The sun goes down in the evening.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "sun",
+        "is_stressed": true
+      },
+      {
+        "word": "goes",
+        "is_stressed": true
+      },
+      {
+        "word": "down",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "evening.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/043",
+    "color": "orange",
+    "source_row": 52,
+    "source_id": 43,
+    "topic": "Space",
+    "sentence": "I look at stars with a telescope.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "look",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "stars",
+        "is_stressed": true
+      },
+      {
+        "word": "with",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "telescope.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/044",
+    "color": "orange",
+    "source_row": 53,
+    "source_id": 44,
+    "topic": "Space",
+    "sentence": "He saw a UFO in the sky.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "He",
+        "is_stressed": true
+      },
+      {
+        "word": "saw",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "UFO",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "sky.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Space/056",
+    "color": "pink",
+    "source_row": 57,
+    "source_id": 56,
+    "topic": "Space",
+    "sentence": "They live in a space station.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "They",
+        "is_stressed": true
+      },
+      {
+        "word": "live",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "space",
+        "is_stressed": true
+      },
+      {
+        "word": "station.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/015",
+    "color": "orange",
+    "source_row": 65,
+    "source_id": 15,
+    "topic": "Nature",
+    "sentence": "A white cloud is in the sky.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "white",
+        "is_stressed": true
+      },
+      {
+        "word": "cloud",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "sky.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/017",
+    "color": "pink",
+    "source_row": 66,
+    "source_id": 17,
+    "topic": "Nature",
+    "sentence": "Sand is hot under my feet.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "Sand",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "hot",
+        "is_stressed": true
+      },
+      {
+        "word": "under",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "feet.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/025",
+    "color": "pink",
+    "source_row": 71,
+    "source_id": 25,
+    "topic": "Nature",
+    "sentence": "A seed can become a tree.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "seed",
+        "is_stressed": true
+      },
+      {
+        "word": "can",
+        "is_stressed": false
+      },
+      {
+        "word": "become",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "tree.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/029",
+    "color": "pink",
+    "source_row": 72,
+    "source_id": 29,
+    "topic": "Nature",
+    "sentence": "The farm has rice and corn.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "farm",
+        "is_stressed": true
+      },
+      {
+        "word": "has",
+        "is_stressed": false
+      },
+      {
+        "word": "rice",
+        "is_stressed": true
+      },
+      {
+        "word": "and",
+        "is_stressed": false
+      },
+      {
+        "word": "corn.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/030",
+    "color": "orange",
+    "source_row": 73,
+    "source_id": 30,
+    "topic": "Nature",
+    "sentence": "A small bush grows near the wall.",
+    "stress_count": 6,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "small",
+        "is_stressed": true
+      },
+      {
+        "word": "bush",
+        "is_stressed": true
+      },
+      {
+        "word": "grows",
+        "is_stressed": true
+      },
+      {
+        "word": "near",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "wall.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/035",
+    "color": "orange",
+    "source_row": 75,
+    "source_id": 35,
+    "topic": "Nature",
+    "sentence": "A red rose is on the table.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "red",
+        "is_stressed": true
+      },
+      {
+        "word": "rose",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "table.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/058",
+    "color": "pink",
+    "source_row": 78,
+    "source_id": 58,
+    "topic": "Nature",
+    "sentence": "A bird flies in the sky.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "bird",
+        "is_stressed": true
+      },
+      {
+        "word": "flies",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "sky.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/060",
+    "color": "pink",
+    "source_row": 79,
+    "source_id": 60,
+    "topic": "Nature",
+    "sentence": "The dog runs in the field.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "dog",
+        "is_stressed": true
+      },
+      {
+        "word": "runs",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "field.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/081",
+    "color": "pink",
+    "source_row": 86,
+    "source_id": 81,
+    "topic": "Nature",
+    "sentence": "The grass is wet after rain.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "grass",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "wet",
+        "is_stressed": true
+      },
+      {
+        "word": "after",
+        "is_stressed": false
+      },
+      {
+        "word": "rain.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Nature/089",
+    "color": "pink",
+    "source_row": 87,
+    "source_id": 89,
+    "topic": "Nature",
+    "sentence": "The river flows to the sea.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "river",
+        "is_stressed": true
+      },
+      {
+        "word": "flows",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "sea.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/008",
+    "color": "pink",
+    "source_row": 91,
+    "source_id": 8,
+    "topic": "Medical",
+    "sentence": "The patient is in this room.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "patient",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "this",
+        "is_stressed": false
+      },
+      {
+        "word": "room.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/025",
+    "color": "pink",
+    "source_row": 93,
+    "source_id": 25,
+    "topic": "Medical",
+    "sentence": "She has pain in her arm.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "She",
+        "is_stressed": true
+      },
+      {
+        "word": "has",
+        "is_stressed": false
+      },
+      {
+        "word": "pain",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "her",
+        "is_stressed": false
+      },
+      {
+        "word": "arm.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/046",
+    "color": "pink",
+    "source_row": 95,
+    "source_id": 46,
+    "topic": "Medical",
+    "sentence": "The pain is in my leg.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "pain",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "leg.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/048",
+    "color": "pink",
+    "source_row": 96,
+    "source_id": 48,
+    "topic": "Medical",
+    "sentence": "The burn is on my hand.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "burn",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "hand.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/052",
+    "color": "pink",
+    "source_row": 98,
+    "source_id": 52,
+    "topic": "Medical",
+    "sentence": "A virus can make people sick.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "virus",
+        "is_stressed": true
+      },
+      {
+        "word": "can",
+        "is_stressed": false
+      },
+      {
+        "word": "make",
+        "is_stressed": true
+      },
+      {
+        "word": "people",
+        "is_stressed": false
+      },
+      {
+        "word": "sick.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/056",
+    "color": "pink",
+    "source_row": 99,
+    "source_id": 56,
+    "topic": "Medical",
+    "sentence": "I take one pill every day.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "take",
+        "is_stressed": true
+      },
+      {
+        "word": "one",
+        "is_stressed": false
+      },
+      {
+        "word": "pill",
+        "is_stressed": true
+      },
+      {
+        "word": "every",
+        "is_stressed": false
+      },
+      {
+        "word": "day.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/062",
+    "color": "orange",
+    "source_row": 101,
+    "source_id": 62,
+    "topic": "Medical",
+    "sentence": "I need a plaster for my finger.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "need",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "plaster",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "finger.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/087",
+    "color": "pink",
+    "source_row": 105,
+    "source_id": 87,
+    "topic": "Medical",
+    "sentence": "He feels weak after the flu.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "He",
+        "is_stressed": true
+      },
+      {
+        "word": "feels",
+        "is_stressed": true
+      },
+      {
+        "word": "weak",
+        "is_stressed": true
+      },
+      {
+        "word": "after",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "flu.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/088",
+    "color": "pink",
+    "source_row": 106,
+    "source_id": 88,
+    "topic": "Medical",
+    "sentence": "My brother is strong and healthy.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "My",
+        "is_stressed": true
+      },
+      {
+        "word": "brother",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "strong",
+        "is_stressed": true
+      },
+      {
+        "word": "and",
+        "is_stressed": false
+      },
+      {
+        "word": "healthy.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Medical/097",
+    "color": "pink",
+    "source_row": 107,
+    "source_id": 97,
+    "topic": "Medical",
+    "sentence": "Fresh air is good for health.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "Fresh",
+        "is_stressed": true
+      },
+      {
+        "word": "air",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "health.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/018",
+    "color": "pink",
+    "source_row": 110,
+    "source_id": 18,
+    "topic": "Feelings",
+    "sentence": "This feeling is new to me.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      4
+    ],
+    "words": [
+      {
+        "word": "This",
+        "is_stressed": true
+      },
+      {
+        "word": "feeling",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "new",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "me.",
+        "is_stressed": false
+      }
+    ]
+  },
+  {
+    "id": "Feelings/022",
+    "color": "pink",
+    "source_row": 112,
+    "source_id": 22,
+    "topic": "Feelings",
+    "sentence": "The child feels safe at home.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "child",
+        "is_stressed": true
+      },
+      {
+        "word": "feels",
+        "is_stressed": true
+      },
+      {
+        "word": "safe",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "home.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/033",
+    "color": "pink",
+    "source_row": 113,
+    "source_id": 33,
+    "topic": "Feelings",
+    "sentence": "A good friend listens to you.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "friend",
+        "is_stressed": true
+      },
+      {
+        "word": "listens",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "you.",
+        "is_stressed": false
+      }
+    ]
+  },
+  {
+    "id": "Feelings/034",
+    "color": "pink",
+    "source_row": 114,
+    "source_id": 34,
+    "topic": "Feelings",
+    "sentence": "My best friend knows me well.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "My",
+        "is_stressed": true
+      },
+      {
+        "word": "best",
+        "is_stressed": true
+      },
+      {
+        "word": "friend",
+        "is_stressed": true
+      },
+      {
+        "word": "knows",
+        "is_stressed": true
+      },
+      {
+        "word": "me",
+        "is_stressed": false
+      },
+      {
+        "word": "well.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/042",
+    "color": "pink",
+    "source_row": 117,
+    "source_id": 42,
+    "topic": "Feelings",
+    "sentence": "I give my friend a gift.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "give",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "friend",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "gift.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/050",
+    "color": "pink",
+    "source_row": 118,
+    "source_id": 50,
+    "topic": "Feelings",
+    "sentence": "I need help from a friend.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "need",
+        "is_stressed": true
+      },
+      {
+        "word": "help",
+        "is_stressed": true
+      },
+      {
+        "word": "from",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "friend.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/079",
+    "color": "pink",
+    "source_row": 120,
+    "source_id": 79,
+    "topic": "Feelings",
+    "sentence": "I am happy with my friends.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "am",
+        "is_stressed": false
+      },
+      {
+        "word": "happy",
+        "is_stressed": true
+      },
+      {
+        "word": "with",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "friends.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/082",
+    "color": "orange",
+    "source_row": 121,
+    "source_id": 82,
+    "topic": "Feelings",
+    "sentence": "The child is afraid of the dark.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "child",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "afraid",
+        "is_stressed": true
+      },
+      {
+        "word": "of",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "dark.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/091",
+    "color": "pink",
+    "source_row": 126,
+    "source_id": 91,
+    "topic": "Feelings",
+    "sentence": "I am sorry for my mistake.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "am",
+        "is_stressed": false
+      },
+      {
+        "word": "sorry",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "mistake.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Feelings/098",
+    "color": "pink",
+    "source_row": 128,
+    "source_id": 98,
+    "topic": "Feelings",
+    "sentence": "I am thankful for your help.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "am",
+        "is_stressed": false
+      },
+      {
+        "word": "thankful",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "your",
+        "is_stressed": false
+      },
+      {
+        "word": "help.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/003",
+    "color": "pink",
+    "source_row": 130,
+    "source_id": 3,
+    "topic": "Environment",
+    "sentence": "Clean air is good for us.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      4
+    ],
+    "words": [
+      {
+        "word": "Clean",
+        "is_stressed": true
+      },
+      {
+        "word": "air",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "us.",
+        "is_stressed": false
+      }
+    ]
+  },
+  {
+    "id": "Environment/010",
+    "color": "pink",
+    "source_row": 131,
+    "source_id": 10,
+    "topic": "Environment",
+    "sentence": "The lake is near my house.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "lake",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "near",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "house.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/024",
+    "color": "pink",
+    "source_row": 132,
+    "source_id": 24,
+    "topic": "Environment",
+    "sentence": "There is dust in the air.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "There",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "dust",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "air.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/040",
+    "color": "pink",
+    "source_row": 133,
+    "source_id": 40,
+    "topic": "Environment",
+    "sentence": "Put the bottle in the bin.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "Put",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "bottle",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "bin.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/047",
+    "color": "pink",
+    "source_row": 134,
+    "source_id": 47,
+    "topic": "Environment",
+    "sentence": "Wind power is good for nature.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "Wind",
+        "is_stressed": true
+      },
+      {
+        "word": "power",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "nature.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/056",
+    "color": "pink",
+    "source_row": 136,
+    "source_id": 56,
+    "topic": "Environment",
+    "sentence": "Reuse is good for the planet.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "Reuse",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "planet.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/077",
+    "color": "pink",
+    "source_row": 137,
+    "source_id": 77,
+    "topic": "Environment",
+    "sentence": "Small actions can change the world.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "Small",
+        "is_stressed": true
+      },
+      {
+        "word": "actions",
+        "is_stressed": true
+      },
+      {
+        "word": "can",
+        "is_stressed": false
+      },
+      {
+        "word": "change",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "world.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/080",
+    "color": "pink",
+    "source_row": 138,
+    "source_id": 80,
+    "topic": "Environment",
+    "sentence": "A green city has many trees.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "green",
+        "is_stressed": true
+      },
+      {
+        "word": "city",
+        "is_stressed": true
+      },
+      {
+        "word": "has",
+        "is_stressed": false
+      },
+      {
+        "word": "many",
+        "is_stressed": false
+      },
+      {
+        "word": "trees.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/082",
+    "color": "pink",
+    "source_row": 139,
+    "source_id": 82,
+    "topic": "Environment",
+    "sentence": "Clean water is safe to drink.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "Clean",
+        "is_stressed": true
+      },
+      {
+        "word": "water",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "safe",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "drink.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Environment/089",
+    "color": "pink",
+    "source_row": 140,
+    "source_id": 89,
+    "topic": "Environment",
+    "sentence": "The street is wet after rain.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "street",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "wet",
+        "is_stressed": true
+      },
+      {
+        "word": "after",
+        "is_stressed": false
+      },
+      {
+        "word": "rain.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/001",
+    "color": "pink",
+    "source_row": 142,
+    "source_id": 1,
+    "topic": "Education",
+    "sentence": "My school is near my house.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "My",
+        "is_stressed": true
+      },
+      {
+        "word": "school",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "near",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "house.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/004",
+    "color": "orange",
+    "source_row": 143,
+    "source_id": 4,
+    "topic": "Education",
+    "sentence": "I put my book on the desk.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "put",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "book",
+        "is_stressed": true
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "desk.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/014",
+    "color": "orange",
+    "source_row": 149,
+    "source_id": 14,
+    "topic": "Education",
+    "sentence": "I use a ruler in math class.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "use",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "ruler",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "math",
+        "is_stressed": true
+      },
+      {
+        "word": "class.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/020",
+    "color": "pink",
+    "source_row": 153,
+    "source_id": 20,
+    "topic": "Education",
+    "sentence": "I do my homework after dinner.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "do",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "homework",
+        "is_stressed": true
+      },
+      {
+        "word": "after",
+        "is_stressed": false
+      },
+      {
+        "word": "dinner.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/021",
+    "color": "pink",
+    "source_row": 154,
+    "source_id": 21,
+    "topic": "Education",
+    "sentence": "The student is reading a book.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "student",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "reading",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "book.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/024",
+    "color": "pink",
+    "source_row": 155,
+    "source_id": 24,
+    "topic": "Education",
+    "sentence": "I study English with my friend.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "study",
+        "is_stressed": true
+      },
+      {
+        "word": "English",
+        "is_stressed": true
+      },
+      {
+        "word": "with",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "friend.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/057",
+    "color": "orange",
+    "source_row": 168,
+    "source_id": 57,
+    "topic": "Education",
+    "sentence": "I write a note in my book.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "write",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "note",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "book.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/074",
+    "color": "pink",
+    "source_row": 169,
+    "source_id": 74,
+    "topic": "Education",
+    "sentence": "She wants to pass the exam.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "She",
+        "is_stressed": true
+      },
+      {
+        "word": "wants",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "pass",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "exam.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/093",
+    "color": "orange",
+    "source_row": 172,
+    "source_id": 93,
+    "topic": "Education",
+    "sentence": "My sister studies at a public school.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "words": [
+      {
+        "word": "My",
+        "is_stressed": true
+      },
+      {
+        "word": "sister",
+        "is_stressed": true
+      },
+      {
+        "word": "studies",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "public",
+        "is_stressed": true
+      },
+      {
+        "word": "school.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Education/095",
+    "color": "pink",
+    "source_row": 173,
+    "source_id": 95,
+    "topic": "Education",
+    "sentence": "I am ready for the test.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "am",
+        "is_stressed": false
+      },
+      {
+        "word": "ready",
+        "is_stressed": true
+      },
+      {
+        "word": "for",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "test.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/009",
+    "color": "orange",
+    "source_row": 175,
+    "source_id": 9,
+    "topic": "Culture_Society",
+    "sentence": "The park is open to the public.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "park",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "open",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "public.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/012",
+    "color": "pink",
+    "source_row": 176,
+    "source_id": 12,
+    "topic": "Culture_Society",
+    "sentence": "The leader speaks to the group.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "leader",
+        "is_stressed": true
+      },
+      {
+        "word": "speaks",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "group.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/022",
+    "color": "pink",
+    "source_row": 179,
+    "source_id": 22,
+    "topic": "Culture_Society",
+    "sentence": "I give my mother a gift.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "I",
+        "is_stressed": true
+      },
+      {
+        "word": "give",
+        "is_stressed": true
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "mother",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "gift.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/023",
+    "color": "pink",
+    "source_row": 180,
+    "source_id": 23,
+    "topic": "Culture_Society",
+    "sentence": "This song is from my country.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "This",
+        "is_stressed": true
+      },
+      {
+        "word": "song",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "from",
+        "is_stressed": false
+      },
+      {
+        "word": "my",
+        "is_stressed": false
+      },
+      {
+        "word": "country.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/031",
+    "color": "pink",
+    "source_row": 181,
+    "source_id": 31,
+    "topic": "Culture_Society",
+    "sentence": "The city is busy at night.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "city",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "busy",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "night.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/042",
+    "color": "orange",
+    "source_row": 183,
+    "source_id": 42,
+    "topic": "Culture_Society",
+    "sentence": "We eat local food at a restaurant.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "words": [
+      {
+        "word": "We",
+        "is_stressed": true
+      },
+      {
+        "word": "eat",
+        "is_stressed": true
+      },
+      {
+        "word": "local",
+        "is_stressed": true
+      },
+      {
+        "word": "food",
+        "is_stressed": true
+      },
+      {
+        "word": "at",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "restaurant.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/046",
+    "color": "pink",
+    "source_row": 184,
+    "source_id": 46,
+    "topic": "Culture_Society",
+    "sentence": "Children have the right to learn.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "Children",
+        "is_stressed": true
+      },
+      {
+        "word": "have",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "right",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "learn.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/047",
+    "color": "pink",
+    "source_row": 185,
+    "source_id": 47,
+    "topic": "Culture_Society",
+    "sentence": "A good job helps a family.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "words": [
+      {
+        "word": "A",
+        "is_stressed": true
+      },
+      {
+        "word": "good",
+        "is_stressed": true
+      },
+      {
+        "word": "job",
+        "is_stressed": true
+      },
+      {
+        "word": "helps",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": true
+      },
+      {
+        "word": "family.",
+        "is_stressed": false
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/048",
+    "color": "pink",
+    "source_row": 186,
+    "source_id": 48,
+    "topic": "Culture_Society",
+    "sentence": "Work is part of daily life.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "Work",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "part",
+        "is_stressed": true
+      },
+      {
+        "word": "of",
+        "is_stressed": false
+      },
+      {
+        "word": "daily",
+        "is_stressed": true
+      },
+      {
+        "word": "life.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Culture_Society/061",
+    "color": "pink",
+    "source_row": 188,
+    "source_id": 61,
+    "topic": "Culture_Society",
+    "sentence": "People want to live in peace.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "People",
+        "is_stressed": true
+      },
+      {
+        "word": "want",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "live",
+        "is_stressed": true
+      },
+      {
+        "word": "in",
+        "is_stressed": false
+      },
+      {
+        "word": "peace.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/018",
+    "color": "pink",
+    "source_row": 191,
+    "source_id": 18,
+    "topic": "Art",
+    "sentence": "The painter uses bright colors.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "painter",
+        "is_stressed": true
+      },
+      {
+        "word": "uses",
+        "is_stressed": false
+      },
+      {
+        "word": "bright",
+        "is_stressed": true
+      },
+      {
+        "word": "colors.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/019",
+    "color": "pink",
+    "source_row": 192,
+    "source_id": 19,
+    "topic": "Art",
+    "sentence": "The singer has a sweet voice.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "singer",
+        "is_stressed": true
+      },
+      {
+        "word": "has",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "sweet",
+        "is_stressed": true
+      },
+      {
+        "word": "voice.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/027",
+    "color": "pink",
+    "source_row": 194,
+    "source_id": 27,
+    "topic": "Art",
+    "sentence": "The designer makes a new dress.",
+    "stress_count": 5,
+    "stress_positions": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "designer",
+        "is_stressed": true
+      },
+      {
+        "word": "makes",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "new",
+        "is_stressed": true
+      },
+      {
+        "word": "dress.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/032",
+    "color": "pink",
+    "source_row": 195,
+    "source_id": 32,
+    "topic": "Art",
+    "sentence": "The band plays a new song.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "band",
+        "is_stressed": true
+      },
+      {
+        "word": "plays",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "new",
+        "is_stressed": true
+      },
+      {
+        "word": "song.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/039",
+    "color": "pink",
+    "source_row": 197,
+    "source_id": 39,
+    "topic": "Art",
+    "sentence": "She writes with a black pen.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "She",
+        "is_stressed": true
+      },
+      {
+        "word": "writes",
+        "is_stressed": true
+      },
+      {
+        "word": "with",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "black",
+        "is_stressed": true
+      },
+      {
+        "word": "pen.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/041",
+    "color": "pink",
+    "source_row": 198,
+    "source_id": 41,
+    "topic": "Art",
+    "sentence": "The canvas is on the wall.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      2,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "canvas",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "on",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "wall.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/043",
+    "color": "pink",
+    "source_row": 199,
+    "source_id": 43,
+    "topic": "Art",
+    "sentence": "She plays the piano every day.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "She",
+        "is_stressed": true
+      },
+      {
+        "word": "plays",
+        "is_stressed": true
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "piano",
+        "is_stressed": true
+      },
+      {
+        "word": "every",
+        "is_stressed": false
+      },
+      {
+        "word": "day.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/052",
+    "color": "pink",
+    "source_row": 201,
+    "source_id": 52,
+    "topic": "Art",
+    "sentence": "The picture has a gold frame.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "picture",
+        "is_stressed": true
+      },
+      {
+        "word": "has",
+        "is_stressed": false
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "gold",
+        "is_stressed": true
+      },
+      {
+        "word": "frame.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/064",
+    "color": "pink",
+    "source_row": 202,
+    "source_id": 64,
+    "topic": "Art",
+    "sentence": "Take a photo of the painting.",
+    "stress_count": 3,
+    "stress_positions": [
+      1,
+      3,
+      6
+    ],
+    "words": [
+      {
+        "word": "Take",
+        "is_stressed": true
+      },
+      {
+        "word": "a",
+        "is_stressed": false
+      },
+      {
+        "word": "photo",
+        "is_stressed": true
+      },
+      {
+        "word": "of",
+        "is_stressed": false
+      },
+      {
+        "word": "the",
+        "is_stressed": false
+      },
+      {
+        "word": "painting.",
+        "is_stressed": true
+      }
+    ]
+  },
+  {
+    "id": "Art/080",
+    "color": "pink",
+    "source_row": 203,
+    "source_id": 80,
+    "topic": "Art",
+    "sentence": "The song is easy to sing.",
+    "stress_count": 4,
+    "stress_positions": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "words": [
+      {
+        "word": "The",
+        "is_stressed": true
+      },
+      {
+        "word": "song",
+        "is_stressed": true
+      },
+      {
+        "word": "is",
+        "is_stressed": false
+      },
+      {
+        "word": "easy",
+        "is_stressed": true
+      },
+      {
+        "word": "to",
+        "is_stressed": false
+      },
+      {
+        "word": "sing.",
+        "is_stressed": true
+      }
+    ]
+  }
+]

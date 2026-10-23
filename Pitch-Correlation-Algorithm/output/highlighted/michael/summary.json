@@ -1,0 +1,19 @@
+{
+  "voice": "am_michael",
+  "reference_voice": "af_sarah",
+  "sentence_counts_mean_r_gte": {
+    "0.9": 1,
+    "0.8": 2,
+    "0.7": 13,
+    "0.6": 37,
+    "0.5": 58,
+    "0.4": 83,
+    "0.3": 97
+  },
+  "total_sentences": 100,
+  "processed_sentences": 100,
+  "scored_sentences": 100,
+  "unscored_sentences": 0,
+  "nonpositive_r_policy": "zero",
+  "missing_r_policy": "exclude"
+}

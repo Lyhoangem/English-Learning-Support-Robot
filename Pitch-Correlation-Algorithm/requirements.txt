@@ -1,0 +1,10 @@
+soundfile
+librosa
+openai-whisper
+scipy
+numpy
+matplotlib
+praat-parselmouth
+openpyxl
+kokoro>=0.9.4
+misaki[en]

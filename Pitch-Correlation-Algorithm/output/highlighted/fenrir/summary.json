@@ -1,0 +1,19 @@
+{
+  "voice": "am_fenrir",
+  "reference_voice": "af_sarah",
+  "sentence_counts_mean_r_gte": {
+    "0.9": 2,
+    "0.8": 5,
+    "0.7": 26,
+    "0.6": 52,
+    "0.5": 85,
+    "0.4": 98,
+    "0.3": 98
+  },
+  "total_sentences": 100,
+  "processed_sentences": 100,
+  "scored_sentences": 100,
+  "unscored_sentences": 0,
+  "nonpositive_r_policy": "zero",
+  "missing_r_policy": "exclude"
+}

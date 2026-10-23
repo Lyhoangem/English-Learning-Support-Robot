@@ -1,0 +1,19 @@
+{
+  "voice": "am_onyx",
+  "reference_voice": "af_sarah",
+  "sentence_counts_mean_r_gte": {
+    "0.9": 0,
+    "0.8": 2,
+    "0.7": 13,
+    "0.6": 23,
+    "0.5": 49,
+    "0.4": 69,
+    "0.3": 90
+  },
+  "total_sentences": 100,
+  "processed_sentences": 100,
+  "scored_sentences": 100,
+  "unscored_sentences": 0,
+  "nonpositive_r_policy": "zero",
+  "missing_r_policy": "exclude"
+}

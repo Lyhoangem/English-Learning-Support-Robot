@@ -1,0 +1,948 @@
+Art | 1 | Art makes life beautiful.
+Art | 2 | The painting is colorful.
+Art | 3 | Her drawing is very nice.
+Art | 4 | Music makes me happy.
+Art | 5 | The dance is beautiful.
+Art | 6 | The film is very funny.
+Art | 7 | This photo is clear.
+Art | 8 | I like this picture.
+Art | 9 | The poem is short.
+Art | 10 | This novel is interesting.
+Art | 11 | The drama starts tonight.
+Art | 12 | The museum has old art.
+Art | 13 | The gallery is open today.
+Art | 14 | The concert is loud.
+Art | 15 | The sculpture is made of stone.
+Art | 16 | The performance is great.
+Art | 17 | The artist paints flowers.
+Art | 18 | The painter uses bright colors.
+Art | 19 | The singer has a sweet voice.
+Art | 20 | The dancer moves beautifully.
+Art | 21 | The actor is famous.
+Art | 22 | The actress smiles on stage.
+Art | 23 | The writer writes stories.
+Art | 24 | The poet writes a short poem.
+Art | 25 | The musician plays the piano.
+Art | 26 | The photographer takes photos.
+Art | 27 | The designer makes a new dress.
+Art | 28 | The audience claps loudly.
+Art | 29 | The fan likes the singer.
+Art | 30 | The teacher teaches art.
+Art | 31 | The student draws a house.
+Art | 32 | The band plays a new song.
+Art | 33 | The film team works hard.
+Art | 34 | The star acts very well.
+Art | 35 | The visitor looks at the art.
+Art | 36 | I paint with a brush.
+Art | 37 | The paint is red.
+Art | 38 | I draw with a pencil.
+Art | 39 | She writes with a black pen.
+Art | 40 | This paper is white.
+Art | 41 | The canvas is on the wall.
+Art | 42 | Blue is my favorite color.
+Art | 43 | She plays the piano every day.
+Art | 44 | The drum is very loud.
+Art | 45 | The violin sounds beautiful.
+Art | 46 | Sing into the microphone.
+Art | 47 | The singer stands on the stage.
+Art | 48 | The light is very bright.
+Art | 49 | I buy a concert ticket.
+Art | 50 | The costume is colorful.
+Art | 51 | The actor wears a mask.
+Art | 52 | The picture has a gold frame.
+Art | 53 | She paints a flower.
+Art | 54 | They sing a happy song.
+Art | 55 | We dance at the party.
+Art | 56 | He plays the guitar.
+Art | 57 | The writer writes a story.
+Art | 58 | We watch a film.
+Art | 59 | I listen to music.
+Art | 60 | Artists create new things.
+Art | 61 | She designs a poster.
+Art | 62 | The band performs on stage.
+Art | 63 | He acts in a film.
+Art | 64 | Take a photo of the painting.
+Art | 65 | The museum shows old art.
+Art | 66 | She practices singing every day.
+Art | 67 | Children learn art at school.
+Art | 68 | We visit the gallery.
+Art | 69 | I enjoy this song.
+Art | 70 | Artists share their ideas.
+Art | 71 | The painting is beautiful.
+Art | 72 | She is a creative artist.
+Art | 73 | The picture is colorful.
+Art | 74 | Modern art can be simple.
+Art | 75 | Traditional music is special.
+Art | 76 | The singer is famous.
+Art | 77 | This song is popular.
+Art | 78 | The design is simple.
+Art | 79 | This dance is difficult.
+Art | 80 | The song is easy to sing.
+Art | 81 | The story is sad.
+Art | 82 | The music is loud.
+Art | 83 | The gallery is quiet.
+Art | 84 | The colors are bright.
+Art | 85 | The photo is dark.
+Art | 86 | The museum has old pictures.
+Art | 87 | This is a new song.
+Art | 88 | The story is interesting.
+Art | 89 | The film is boring.
+Culture_Society | 1 | People live in many countries.
+Culture_Society | 2 | A kind person helps others.
+Culture_Society | 3 | My family eats dinner together.
+Culture_Society | 4 | My friend lives near me.
+Culture_Society | 5 | The group works together.
+Culture_Society | 6 | She is a new member.
+Culture_Society | 7 | A good citizen follows rules.
+Culture_Society | 8 | Society needs good people.
+Culture_Society | 9 | The park is open to the public.
+Culture_Society | 10 | The volunteer helps old people.
+Culture_Society | 11 | The worker cleans the street.
+Culture_Society | 12 | The leader speaks to the group.
+Culture_Society | 13 | A big crowd waits outside.
+Culture_Society | 14 | Culture is important to people.
+Culture_Society | 15 | This tradition is very old.
+Culture_Society | 16 | It is a local custom.
+Culture_Society | 17 | The festival is very fun.
+Culture_Society | 18 | We visit family on the holiday.
+Culture_Society | 19 | The ceremony starts at nine.
+Culture_Society | 20 | The wedding is beautiful.
+Culture_Society | 21 | We sing at the birthday party.
+Culture_Society | 22 | I give my mother a gift.
+Culture_Society | 23 | This song is from my country.
+Culture_Society | 24 | The dance looks very nice.
+Culture_Society | 25 | Music brings people together.
+Culture_Society | 26 | My grandfather tells a story.
+Culture_Society | 27 | Language is part of culture.
+Culture_Society | 28 | She wears a traditional costume.
+Culture_Society | 29 | My village is quiet.
+Culture_Society | 30 | This town has many shops.
+Culture_Society | 31 | The city is busy at night.
+Culture_Society | 32 | My country has many festivals.
+Culture_Society | 33 | The street is full of people.
+Culture_Society | 34 | The market sells fresh food.
+Culture_Society | 35 | The museum shows old things.
+Culture_Society | 36 | People visit the temple.
+Culture_Society | 37 | The church is very old.
+Culture_Society | 38 | People meet in the square.
+Culture_Society | 39 | Families walk in the park.
+Culture_Society | 40 | School teaches children good values.
+Culture_Society | 41 | Home is important to family.
+Culture_Society | 42 | We eat local food at a restaurant.
+Culture_Society | 43 | The community center is open.
+Culture_Society | 44 | Every society has rules.
+Culture_Society | 45 | The law protects people.
+Culture_Society | 46 | Children have the right to learn.
+Culture_Society | 47 | A good job helps a family.
+Culture_Society | 48 | Work is part of daily life.
+Culture_Society | 49 | People need money for food.
+Culture_Society | 50 | Food shows local culture.
+Culture_Society | 51 | A family meal is warm.
+Culture_Society | 52 | Many families live in small houses.
+Culture_Society | 53 | Public transport helps many people.
+Culture_Society | 54 | Media changes our daily life.
+Culture_Society | 55 | The news talks about society.
+Culture_Society | 56 | Poverty is a big problem.
+Culture_Society | 57 | Poor families need support.
+Culture_Society | 58 | Respect is important in society.
+Culture_Society | 59 | Kindness makes people happy.
+Culture_Society | 60 | Trust is important between friends.
+Culture_Society | 61 | People want to live in peace.
+Culture_Society | 62 | Safety is important for children.
+Culture_Society | 63 | Freedom is important to people.
+Culture_Society | 64 | Equality helps society grow.
+Culture_Society | 65 | Old people sometimes need help.
+Culture_Society | 66 | Children need love and care.
+Culture_Society | 67 | Every person has a voice.
+Culture_Society | 68 | Many people live in cities.
+Culture_Society | 69 | People meet at the festival.
+Culture_Society | 70 | We share food with neighbors.
+Culture_Society | 71 | Young people help old people.
+Culture_Society | 72 | We celebrate the new year.
+Culture_Society | 73 | We visit our grandparents.
+Culture_Society | 74 | We respect older people.
+Culture_Society | 75 | People follow local rules.
+Culture_Society | 76 | The law protects citizens.
+Culture_Society | 77 | Society can change quickly.
+Culture_Society | 78 | Children learn culture at home.
+Culture_Society | 79 | Parents teach good manners.
+Culture_Society | 80 | Neighbors talk in the morning.
+Culture_Society | 81 | Good leaders listen to people.
+Culture_Society | 82 | Students join a volunteer group.
+Culture_Society | 83 | People are social.
+Culture_Society | 84 | This is a cultural event.
+Culture_Society | 85 | She wears traditional clothes.
+Culture_Society | 86 | Modern life is very fast.
+Culture_Society | 87 | Local people are friendly.
+Culture_Society | 88 | This is a national holiday.
+Culture_Society | 89 | The village is friendly.
+Culture_Society | 90 | Polite words show respect.
+Culture_Society | 91 | Kind people help others.
+Culture_Society | 92 | Poor families need help.
+Culture_Society | 93 | Rich countries can give support.
+Culture_Society | 94 | A safe community is happy.
+Culture_Society | 95 | The city street is busy.
+Culture_Society | 96 | Different cultures have different food.
+Culture_Society | 97 | Culture is important to society.
+Education | 1 | My school is near my house.
+Education | 2 | Our class starts at seven.
+Education | 3 | The classroom is clean today.
+Education | 4 | I put my book on the desk.
+Education | 5 | This chair is small.
+Education | 6 | The teacher writes on the board.
+Education | 7 | I read a book every day.
+Education | 8 | My notebook is in my bag.
+Education | 9 | I need a blue pen.
+Education | 10 | She uses a pencil to draw.
+Education | 11 | His school bag is heavy.
+Education | 12 | Please give me some paper.
+Education | 13 | Open your book to page ten.
+Education | 14 | I use a ruler in math class.
+Education | 15 | This eraser is on my desk.
+Education | 16 | We use a computer at school.
+Education | 17 | The library has many books.
+Education | 18 | I wear a uniform to school.
+Education | 19 | The school bell rings loudly.
+Education | 20 | I do my homework after dinner.
+Education | 21 | The student is reading a book.
+Education | 22 | My teacher is very kind.
+Education | 23 | My classmate helps me study.
+Education | 24 | I study English with my friend.
+Education | 25 | The principal talks to the students.
+Education | 26 | My parent comes to school today.
+Education | 27 | I have a tutor for English.
+Education | 28 | The librarian gives me a book.
+Education | 29 | The child learns new words.
+Education | 30 | We work in a small group.
+Education | 31 | English is my favorite subject.
+Education | 32 | Math is difficult for me.
+Education | 33 | History teaches us about the past.
+Education | 34 | Geography helps me know places.
+Education | 35 | I draw pictures in art class.
+Education | 36 | Music class is fun.
+Education | 37 | We run in PE class.
+Education | 38 | Biology is about living things.
+Education | 39 | Chemistry can be hard.
+Education | 40 | Physics is about light and sound.
+Education | 41 | A new language takes time.
+Education | 42 | My best subject is English.
+Education | 43 | The lesson is short and easy.
+Education | 44 | I ask a question in class.
+Education | 45 | Her answer is correct.
+Education | 46 | This exercise is easy.
+Education | 47 | We have a test on Friday.
+Education | 48 | The exam starts at nine.
+Education | 49 | I got a good grade.
+Education | 50 | My mark is better now.
+Education | 51 | His score is very high.
+Education | 52 | I made a small mistake.
+Education | 53 | We follow the class rules.
+Education | 54 | Our project is about schools.
+Education | 55 | I give a short presentation.
+Education | 56 | She writes an essay at home.
+Education | 57 | I write a note in my book.
+Education | 58 | I learn English every day.
+Education | 59 | We study at the library.
+Education | 60 | Please write your name.
+Education | 61 | Students listen to the teacher.
+Education | 62 | I speak English in class.
+Education | 63 | You can ask the teacher.
+Education | 64 | Repeat the word after me.
+Education | 65 | I practice speaking at home.
+Education | 66 | I remember the new words.
+Education | 67 | Do not forget your homework.
+Education | 68 | I understand this lesson.
+Education | 69 | The teacher explains the answer.
+Education | 70 | She teaches English at school.
+Education | 71 | My friend helps me learn.
+Education | 72 | We share one book.
+Education | 73 | I finish my homework early.
+Education | 74 | She wants to pass the exam.
+Education | 75 | I do not want to fail.
+Education | 76 | He joins an English club.
+Education | 77 | I choose science this year.
+Education | 78 | Please check your answer.
+Education | 79 | Do not copy your friend.
+Education | 80 | Can you spell this word?
+Education | 81 | This lesson is easy.
+Education | 82 | The exam is difficult.
+Education | 83 | Education is important.
+Education | 84 | This book is useful.
+Education | 85 | The lesson is boring today.
+Education | 86 | Science is very interesting.
+Education | 87 | The library is quiet.
+Education | 88 | The teacher is busy.
+Education | 89 | I am late for class.
+Education | 90 | She comes to school early.
+Education | 91 | We have an online class.
+Education | 92 | He goes to a private school.
+Education | 93 | My sister studies at a public school.
+Education | 94 | The school gives free books.
+Education | 95 | I am ready for the test.
+Environment | 1 | We should protect the environment.
+Environment | 2 | Nature is beautiful.
+Environment | 3 | Clean air is good for us.
+Environment | 4 | Water is important for life.
+Environment | 5 | People live on the land.
+Environment | 6 | Plants grow in soil.
+Environment | 7 | The forest has many trees.
+Environment | 8 | The river is clean.
+Environment | 9 | The ocean is very big.
+Environment | 10 | The lake is near my house.
+Environment | 11 | The beach is clean today.
+Environment | 12 | A tree gives us shade.
+Environment | 13 | This plant needs water.
+Environment | 14 | Animals need clean water.
+Environment | 15 | The climate is changing.
+Environment | 16 | The weather is hot today.
+Environment | 17 | The sky looks clear.
+Environment | 18 | Plants need sunlight.
+Environment | 19 | Pollution is bad for health.
+Environment | 20 | Trash is on the street.
+Environment | 21 | Plastic waste is a problem.
+Environment | 22 | Plastic can hurt the ocean.
+Environment | 23 | Smoke makes the air dirty.
+Environment | 24 | There is dust in the air.
+Environment | 25 | Cars make dirty gas.
+Environment | 26 | Noise pollution is annoying.
+Environment | 27 | The flood damages houses.
+Environment | 28 | A drought makes land dry.
+Environment | 29 | Forest fire is dangerous.
+Environment | 30 | The storm breaks many trees.
+Environment | 31 | Air pollution is a problem.
+Environment | 32 | The storm causes damage.
+Environment | 33 | Pollution is a danger.
+Environment | 34 | Oil can pollute water.
+Environment | 35 | Chemicals can be dangerous.
+Environment | 36 | The factory makes smoke.
+Environment | 37 | Cars can pollute the air.
+Environment | 38 | Carbon is in dirty smoke.
+Environment | 39 | Recycling helps the planet.
+Environment | 40 | Put the bottle in the bin.
+Environment | 41 | I reuse this water bottle.
+Environment | 42 | We recycle old paper.
+Environment | 43 | Use a cloth bag.
+Environment | 44 | We should save energy.
+Environment | 45 | Turn off electricity at night.
+Environment | 46 | Solar power is clean.
+Environment | 47 | Wind power is good for nature.
+Environment | 48 | Everyone needs clean water.
+Environment | 49 | A city needs green space.
+Environment | 50 | The park has many trees.
+Environment | 51 | The farm uses clean water.
+Environment | 52 | Public transport reduces cars.
+Environment | 53 | A bicycle does not make smoke.
+Environment | 54 | Tree planting helps the air.
+Environment | 55 | Saving water is important.
+Environment | 56 | Reuse is good for the planet.
+Environment | 57 | Conservation protects animals.
+Environment | 58 | We protect the forest.
+Environment | 59 | Save water every day.
+Environment | 60 | We recycle bottles at school.
+Environment | 61 | I reuse my old bag.
+Environment | 62 | Reduce plastic waste.
+Environment | 63 | We clean the beach.
+Environment | 64 | Students plant trees.
+Environment | 65 | Trees grow in the park.
+Environment | 66 | Factories pollute the river.
+Environment | 67 | Trash can damage nature.
+Environment | 68 | Do not waste water.
+Environment | 69 | Do not throw trash here.
+Environment | 70 | We collect plastic bottles.
+Environment | 71 | Turn off the light.
+Environment | 72 | I walk to school.
+Environment | 73 | We cycle to the park.
+Environment | 74 | Use less plastic.
+Environment | 75 | Keep the river clean.
+Environment | 76 | Everyone can help nature.
+Environment | 77 | Small actions can change the world.
+Environment | 78 | Clean water is important.
+Environment | 79 | The river is dirty.
+Environment | 80 | A green city has many trees.
+Environment | 81 | Fresh air feels good.
+Environment | 82 | Clean water is safe to drink.
+Environment | 83 | Dirty water is dangerous.
+Environment | 84 | A clean environment is healthy.
+Environment | 85 | Natural places are beautiful.
+Environment | 86 | This bag is recycled.
+Environment | 87 | Solar power is renewable.
+Environment | 88 | The land is very dry.
+Environment | 89 | The street is wet after rain.
+Environment | 90 | The air is cold today.
+Environment | 91 | The city is noisy.
+Environment | 92 | The forest is quiet.
+Environment | 93 | Pollution is a serious problem.
+Environment | 94 | Trees are important.
+Environment | 95 | The air is better today.
+Environment | 96 | Pollution is worse in winter.
+Feelings | 1 | Love makes people happy.
+Feelings | 2 | Happiness is important in life.
+Feelings | 3 | Sadness can pass with time.
+Feelings | 4 | Anger is a strong feeling.
+Feelings | 5 | Fear can stop people.
+Feelings | 6 | Hope helps me try again.
+Feelings | 7 | Joy shows on her face.
+Feelings | 8 | Worry keeps me awake.
+Feelings | 9 | Stress makes students tired.
+Feelings | 10 | The gift is a surprise.
+Feelings | 11 | Peace is good for the heart.
+Feelings | 12 | Pride makes him smile.
+Feelings | 13 | Shame makes her quiet.
+Feelings | 14 | Trust is important in love.
+Feelings | 15 | Care makes friendship strong.
+Feelings | 16 | Kindness can change a day.
+Feelings | 17 | Friendship is a special gift.
+Feelings | 18 | This feeling is new to me.
+Feelings | 19 | Her heart is full of love.
+Feelings | 20 | A smile can show happiness.
+Feelings | 21 | My mother loves me.
+Feelings | 22 | The child feels safe at home.
+Feelings | 23 | My brother is my friend.
+Feelings | 24 | My sister smiles at me.
+Feelings | 25 | My grandmother tells warm stories.
+Feelings | 26 | My grandfather loves our family.
+Feelings | 27 | Her husband is very kind.
+Feelings | 28 | His wife makes him happy.
+Feelings | 29 | My partner supports me.
+Feelings | 30 | The couple looks happy.
+Feelings | 31 | Her boyfriend sends a message.
+Feelings | 32 | His girlfriend likes flowers.
+Feelings | 33 | A good friend listens to you.
+Feelings | 34 | My best friend knows me well.
+Feelings | 35 | Family gives me love.
+Feelings | 36 | Marriage needs trust and care.
+Feelings | 37 | A hug can make me calm.
+Feelings | 38 | The mother gives a kiss.
+Feelings | 39 | A good relationship needs respect.
+Feelings | 40 | They have a date tonight.
+Feelings | 41 | The wedding is full of love.
+Feelings | 42 | I give my friend a gift.
+Feelings | 43 | She writes a love letter.
+Feelings | 44 | He sends a kind message.
+Feelings | 45 | A promise is important.
+Feelings | 46 | Friends can keep a secret.
+Feelings | 47 | This memory makes me smile.
+Feelings | 48 | Support helps me feel strong.
+Feelings | 49 | Her advice helps me.
+Feelings | 50 | I need help from a friend.
+Feelings | 51 | Respect makes love stronger.
+Feelings | 52 | We have a long talk.
+Feelings | 53 | The meeting is friendly.
+Feelings | 54 | The party makes everyone happy.
+Feelings | 55 | Her visit makes me happy.
+Feelings | 56 | His apology is honest.
+Feelings | 57 | Thanks can show care.
+Feelings | 58 | Goodbye can be sad.
+Feelings | 59 | I love my family.
+Feelings | 60 | I like my new friend.
+Feelings | 61 | I miss my mother.
+Feelings | 62 | Parents care for their children.
+Feelings | 63 | Friends help each other.
+Feelings | 64 | I trust my best friend.
+Feelings | 65 | We share our feelings.
+Feelings | 66 | She hugs her child.
+Feelings | 67 | The mother kisses the baby.
+Feelings | 68 | He smiles when he is happy.
+Feelings | 69 | The child cries at night.
+Feelings | 70 | We laugh at funny stories.
+Feelings | 71 | I feel happy today.
+Feelings | 72 | We talk about our feelings.
+Feelings | 73 | Good friends listen carefully.
+Feelings | 74 | I forgive my friend.
+Feelings | 75 | I promise to help you.
+Feelings | 76 | I remember our first meeting.
+Feelings | 77 | I thank my parents.
+Feelings | 78 | My family supports me.
+Feelings | 79 | I am happy with my friends.
+Feelings | 80 | She feels sad today.
+Feelings | 81 | He is angry with me.
+Feelings | 82 | The child is afraid of the dark.
+Feelings | 83 | Old people can feel lonely.
+Feelings | 84 | I am excited to meet her.
+Feelings | 85 | His voice is calm.
+Feelings | 86 | She is nervous before the date.
+Feelings | 87 | My parents are proud of me.
+Feelings | 88 | A kind friend helps you.
+Feelings | 89 | She is friendly and warm.
+Feelings | 90 | An honest person tells the truth.
+Feelings | 91 | I am sorry for my mistake.
+Feelings | 92 | That is a sweet message.
+Feelings | 93 | She has a lovely smile.
+Feelings | 94 | Their love is strong.
+Feelings | 95 | We are close friends.
+Feelings | 96 | He is shy with new people.
+Feelings | 97 | She is brave and honest.
+Feelings | 98 | I am thankful for your help.
+Medical | 1 | The doctor helps sick people.
+Medical | 2 | The nurse is very kind.
+Medical | 3 | The patient needs some rest.
+Medical | 4 | I see the dentist today.
+Medical | 5 | The pharmacist gives me medicine.
+Medical | 6 | My father is at the hospital.
+Medical | 7 | The clinic opens at eight.
+Medical | 8 | The patient is in this room.
+Medical | 9 | He lies on the hospital bed.
+Medical | 10 | The ambulance comes very fast.
+Medical | 11 | This is an emergency.
+Medical | 12 | I have a doctor's appointment.
+Medical | 13 | Please wait at reception.
+Medical | 14 | The health center is small.
+Medical | 15 | My head hurts today.
+Medical | 16 | Wash your face every morning.
+Medical | 17 | My left eye is red.
+Medical | 18 | Her ear hurts a little.
+Medical | 19 | My nose is running.
+Medical | 20 | Open your mouth, please.
+Medical | 21 | My tooth hurts at night.
+Medical | 22 | My throat is very sore.
+Medical | 23 | His neck feels painful.
+Medical | 24 | My shoulder hurts after work.
+Medical | 25 | She has pain in her arm.
+Medical | 26 | Wash your hands before eating.
+Medical | 27 | I cut my finger.
+Medical | 28 | He has chest pain.
+Medical | 29 | My stomach hurts after lunch.
+Medical | 30 | My back is very painful.
+Medical | 31 | His leg is broken.
+Medical | 32 | My knee hurts when I run.
+Medical | 33 | Her foot is swollen.
+Medical | 34 | My skin feels dry.
+Medical | 35 | Health is very important.
+Medical | 36 | This illness makes me tired.
+Medical | 37 | This disease is serious.
+Medical | 38 | I have a cold today.
+Medical | 39 | The flu makes him weak.
+Medical | 40 | She has a high fever.
+Medical | 41 | His cough is very loud.
+Medical | 42 | I have a bad headache.
+Medical | 43 | She has a stomachache.
+Medical | 44 | A toothache can be painful.
+Medical | 45 | I have a sore throat.
+Medical | 46 | The pain is in my leg.
+Medical | 47 | This cut is very small.
+Medical | 48 | The burn is on my hand.
+Medical | 49 | He has a sports injury.
+Medical | 50 | She has a food allergy.
+Medical | 51 | There is blood on his finger.
+Medical | 52 | A virus can make people sick.
+Medical | 53 | Germs can live on hands.
+Medical | 54 | Fever is a common symptom.
+Medical | 55 | Take this medicine after lunch.
+Medical | 56 | I take one pill every day.
+Medical | 57 | This tablet is for pain.
+Medical | 58 | The child takes cough syrup.
+Medical | 59 | The nurse gives an injection.
+Medical | 60 | A vaccine helps protect us.
+Medical | 61 | Put a bandage on the cut.
+Medical | 62 | I need a plaster for my finger.
+Medical | 63 | Wear a mask at the clinic.
+Medical | 64 | The doctor wears gloves.
+Medical | 65 | Use a thermometer for fever.
+Medical | 66 | He uses a wheelchair.
+Medical | 67 | She walks with a crutch.
+Medical | 68 | The doctor looks at the X-ray.
+Medical | 69 | The doctor writes a prescription.
+Medical | 70 | I feel better today.
+Medical | 71 | My arm hurts a lot.
+Medical | 72 | You should rest at home.
+Medical | 73 | Sick people need to sleep.
+Medical | 74 | Eat healthy food every day.
+Medical | 75 | Drink warm water often.
+Medical | 76 | Take the medicine on time.
+Medical | 77 | The nurse checks my temperature.
+Medical | 78 | Doctors treat sick people.
+Medical | 79 | The cut will heal soon.
+Medical | 80 | Wash your hands with soap.
+Medical | 81 | Brush your teeth twice a day.
+Medical | 82 | Breathe slowly and deeply.
+Medical | 83 | I exercise in the morning.
+Medical | 84 | He will recover soon.
+Medical | 85 | I am sick today.
+Medical | 86 | She eats healthy food.
+Medical | 87 | He feels weak after the flu.
+Medical | 88 | My brother is strong and healthy.
+Medical | 89 | I feel tired after work.
+Medical | 90 | The cut is painful.
+Medical | 91 | This illness is serious.
+Medical | 92 | Clean hands keep us safe.
+Medical | 93 | Dirty hands can carry germs.
+Medical | 94 | This medicine is safe.
+Medical | 95 | Some diseases are dangerous.
+Medical | 96 | A cold is very common.
+Medical | 97 | Fresh air is good for health.
+Nature | 1 | Nature is all around us.
+Nature | 2 | The mountain is very high.
+Nature | 3 | The hill is green.
+Nature | 4 | The river flows slowly.
+Nature | 5 | The lake is blue.
+Nature | 6 | The ocean is very deep.
+Nature | 7 | The beach has white sand.
+Nature | 8 | The island is small.
+Nature | 9 | The desert is hot and dry.
+Nature | 10 | The valley is beautiful.
+Nature | 11 | The field is full of flowers.
+Nature | 12 | The cave is dark.
+Nature | 13 | The waterfall is very loud.
+Nature | 14 | The sky is clear today.
+Nature | 15 | A white cloud is in the sky.
+Nature | 16 | The stone is round.
+Nature | 17 | Sand is hot under my feet.
+Nature | 18 | The path goes through the forest.
+Nature | 19 | The tree is very tall.
+Nature | 20 | This flower smells nice.
+Nature | 21 | The grass is green.
+Nature | 22 | A leaf falls from the tree.
+Nature | 23 | The root is under the soil.
+Nature | 24 | A bird sits on the branch.
+Nature | 25 | A seed can become a tree.
+Nature | 26 | Fruit grows on many trees.
+Nature | 27 | Vegetables grow on the farm.
+Nature | 28 | My garden has many flowers.
+Nature | 29 | The farm has rice and corn.
+Nature | 30 | A small bush grows near the wall.
+Nature | 31 | Bamboo grows very fast.
+Nature | 32 | Rice grows in wet fields.
+Nature | 33 | This plant needs sunlight.
+Nature | 34 | This table is made of wood.
+Nature | 35 | A red rose is on the table.
+Nature | 36 | A sunflower turns to the sun.
+Nature | 37 | A mushroom grows after rain.
+Nature | 38 | The crop needs water.
+Nature | 39 | The weather is nice today.
+Nature | 40 | The sun is bright.
+Nature | 41 | Rain helps plants grow.
+Nature | 42 | The wind is strong today.
+Nature | 43 | The storm is very loud.
+Nature | 44 | Snow covers the mountain.
+Nature | 45 | Ice is cold and hard.
+Nature | 46 | Fog makes the road hard to see.
+Nature | 47 | A rainbow appears after rain.
+Nature | 48 | Thunder is very loud.
+Nature | 49 | Lightning lights the sky.
+Nature | 50 | Each season has different weather.
+Nature | 51 | Flowers grow in spring.
+Nature | 52 | Summer is hot and sunny.
+Nature | 53 | Leaves fall in autumn.
+Nature | 54 | The morning air is fresh.
+Nature | 55 | The evening sky is orange.
+Nature | 56 | Sunrise is beautiful.
+Nature | 57 | We watch the sunset.
+Nature | 58 | A bird flies in the sky.
+Nature | 59 | Fish live in water.
+Nature | 60 | The dog runs in the field.
+Nature | 61 | The horse runs fast.
+Nature | 62 | The cow eats grass.
+Nature | 63 | Sheep live on the farm.
+Nature | 64 | The goat climbs the hill.
+Nature | 65 | The chicken walks in the yard.
+Nature | 66 | The duck swims in the lake.
+Nature | 67 | A bee visits a flower.
+Nature | 68 | A butterfly has colorful wings.
+Nature | 69 | An ant is very small.
+Nature | 70 | A tiger lives in the forest.
+Nature | 71 | An elephant is very big.
+Nature | 72 | A monkey climbs a tree.
+Nature | 73 | A snake moves on the ground.
+Nature | 74 | A frog jumps near the pond.
+Nature | 75 | The turtle walks slowly.
+Nature | 76 | A whale lives in the ocean.
+Nature | 77 | Wild animals live in nature.
+Nature | 78 | This lake is natural.
+Nature | 79 | The forest is green.
+Nature | 80 | The desert is dry.
+Nature | 81 | The grass is wet after rain.
+Nature | 82 | Summer is hot.
+Nature | 83 | The river is wide.
+Nature | 84 | The valley is quiet.
+Nature | 85 | A storm can be dangerous.
+Nature | 86 | The path is safe.
+Nature | 87 | Plants grow in spring.
+Nature | 88 | Flowers bloom in the garden.
+Nature | 89 | The river flows to the sea.
+Nature | 90 | Birds fly over the lake.
+Science_Technology | 1 | I use a computer at school.
+Science_Technology | 2 | My phone is in my bag.
+Science_Technology | 3 | This laptop is very light.
+Science_Technology | 4 | The child uses a tablet.
+Science_Technology | 5 | The camera takes clear photos.
+Science_Technology | 6 | The robot can move.
+Science_Technology | 7 | The drone flies above the field.
+Science_Technology | 8 | This machine works fast.
+Science_Technology | 9 | Look at the screen.
+Science_Technology | 10 | My keyboard is black.
+Science_Technology | 11 | Click the mouse once.
+Science_Technology | 12 | The speaker is too loud.
+Science_Technology | 13 | Speak into the microphone.
+Science_Technology | 14 | I need a phone charger.
+Science_Technology | 15 | The battery is low.
+Science_Technology | 16 | This cable is too short.
+Science_Technology | 17 | A chip is inside the phone.
+Science_Technology | 18 | The sensor checks light.
+Science_Technology | 19 | The internet is very useful.
+Science_Technology | 20 | This website is easy to use.
+Science_Technology | 21 | I use an app to learn English.
+Science_Technology | 22 | She sends an email.
+Science_Technology | 23 | I get a message from my friend.
+Science_Technology | 24 | Keep your password safe.
+Science_Technology | 25 | I make a new account.
+Science_Technology | 26 | The phone uses mobile data.
+Science_Technology | 27 | Save the file now.
+Science_Technology | 28 | Put the file in this folder.
+Science_Technology | 29 | This photo is very clear.
+Science_Technology | 30 | We watch a science video.
+Science_Technology | 31 | This game uses new technology.
+Science_Technology | 32 | The online map helps me.
+Science_Technology | 33 | A quick search gives an answer.
+Science_Technology | 34 | I save photos in the cloud.
+Science_Technology | 35 | The code makes the app work.
+Science_Technology | 36 | This software is easy.
+Science_Technology | 37 | Open the browser now.
+Science_Technology | 38 | The Wi-Fi is slow today.
+Science_Technology | 39 | Science helps us understand life.
+Science_Technology | 40 | Technology changes our work.
+Science_Technology | 41 | Students work in the lab.
+Science_Technology | 42 | The experiment is simple.
+Science_Technology | 43 | Research takes a long time.
+Science_Technology | 44 | The scientist studies water.
+Science_Technology | 45 | The student asks a question.
+Science_Technology | 46 | The teacher explains science.
+Science_Technology | 47 | This idea is very new.
+Science_Technology | 48 | Science starts with a question.
+Science_Technology | 49 | The answer is on the screen.
+Science_Technology | 50 | This fact is interesting.
+Science_Technology | 51 | Write the number in your book.
+Science_Technology | 52 | The machine needs energy.
+Science_Technology | 53 | Light helps us see.
+Science_Technology | 54 | Sound travels through air.
+Science_Technology | 55 | Heat can change water.
+Science_Technology | 56 | Space is very large.
+Science_Technology | 57 | Science helps make medicine.
+Science_Technology | 58 | The phone is a useful invention.
+Science_Technology | 59 | Type your name here.
+Science_Technology | 60 | Open the app now.
+Science_Technology | 61 | Close the file after work.
+Science_Technology | 62 | Save your work often.
+Science_Technology | 63 | Send the email to me.
+Science_Technology | 64 | I receive a message.
+Science_Technology | 65 | Download the photo.
+Science_Technology | 66 | Upload the video.
+Science_Technology | 67 | Search for the answer online.
+Science_Technology | 68 | Connect the phone to Wi-Fi.
+Science_Technology | 69 | Charge the battery tonight.
+Science_Technology | 70 | Turn on the computer.
+Science_Technology | 71 | Turn off the screen.
+Science_Technology | 72 | They build a small robot.
+Science_Technology | 73 | We test the new machine.
+Science_Technology | 74 | Measure the temperature.
+Science_Technology | 75 | Scientists study the stars.
+Science_Technology | 76 | People invent new tools.
+Science_Technology | 77 | He repairs the old computer.
+Science_Technology | 78 | This is a digital camera.
+Science_Technology | 79 | A smart phone can do many things.
+Science_Technology | 80 | We have an online class.
+Science_Technology | 81 | The app works offline.
+Science_Technology | 82 | The internet is fast today.
+Science_Technology | 83 | My computer is slow.
+Science_Technology | 84 | This is a new invention.
+Science_Technology | 85 | The old phone still works.
+Science_Technology | 86 | Technology is useful.
+Science_Technology | 87 | This app is easy to use.
+Science_Technology | 88 | Coding is difficult for me.
+Science_Technology | 89 | A strong password is safe.
+Science_Technology | 90 | Keep your data private.
+Science_Technology | 91 | This website is public.
+Science_Technology | 92 | Modern technology is powerful.
+Science_Technology | 93 | The machine is simple.
+Science_Technology | 94 | The door is automatic.
+Science_Technology | 95 | An electric car is quiet.
+Science_Technology | 96 | This computer is powerful.
+Science_Technology | 97 | This app is popular.
+Space | 1 | The sun is big and hot.
+Space | 2 | I see the moon at night.
+Space | 3 | The stars are very bright.
+Space | 4 | The sky is blue today.
+Space | 5 | Earth is a beautiful planet.
+Space | 6 | Mars is a red planet.
+Space | 7 | Jupiter is a very big planet.
+Space | 8 | Saturn has beautiful rings.
+Space | 9 | Venus is very hot.
+Space | 10 | Mercury is near the sun.
+Space | 11 | Neptune is a blue planet.
+Space | 12 | Uranus is very cold.
+Space | 13 | Pluto is a small planet.
+Space | 14 | The world is very big.
+Space | 15 | We can see the Milky Way.
+Space | 16 | The comet has a long tail.
+Space | 17 | The asteroid is a big rock.
+Space | 18 | Look! A meteor is falling.
+Space | 19 | There are clouds in the sky.
+Space | 20 | The sky is dark at night.
+Space | 21 | The sun shines during the day.
+Space | 22 | The sun gives us light.
+Space | 23 | Space is very dark.
+Space | 24 | There is no air in space.
+Space | 25 | There is no wind on the moon.
+Space | 26 | The sun looks like fire.
+Space | 27 | Some planets have ice.
+Space | 28 | Earth has a lot of water.
+Space | 29 | The moon is made of rock.
+Space | 30 | Jupiter is made of gas.
+Space | 31 | The spaceship landed on the ground.
+Space | 32 | The moon makes a big shadow.
+Space | 33 | The sun comes up in the morning.
+Space | 34 | The sun goes down in the evening.
+Space | 35 | I like to watch the sunrise.
+Space | 36 | The sunset is very beautiful.
+Space | 37 | The astronaut flies a rocket.
+Space | 38 | The rocket goes into space.
+Space | 39 | The spaceship is very fast.
+Space | 40 | Is that a green alien?
+Space | 41 | The robot walks on Mars.
+Space | 42 | The satellite flies around Earth.
+Space | 43 | I look at stars with a telescope.
+Space | 44 | He saw a UFO in the sky.
+Space | 45 | Put on your helmet now.
+Space | 46 | We need a star map.
+Space | 47 | They talk using a radio.
+Space | 48 | Take a photo with the camera.
+Space | 49 | The computer drives the spaceship.
+Space | 50 | Look out of the spaceship window.
+Space | 51 | Close the rocket door.
+Space | 52 | Astronauts wear big boots.
+Space | 53 | The space team works hard.
+Space | 54 | The pilot flies the ship.
+Space | 55 | The space ship is ready.
+Space | 56 | They live in a space station.
+Space | 57 | Look at the computer screen.
+Space | 58 | This is a picture of Earth.
+Space | 59 | The sun is very big.
+Space | 60 | Stars look small from Earth.
+Space | 61 | The sun is too hot.
+Space | 62 | Space is very cold.
+Space | 63 | The moon is far away.
+Space | 64 | The satellite is near Earth.
+Space | 65 | The rocket is very high.
+Space | 66 | Rockets are very fast.
+Space | 67 | The rover is very slow.
+Space | 68 | The moon is beautiful.
+Space | 69 | They built a new rocket.
+Space | 70 | The telescope is old.
+Space | 71 | The spaceship is safe.
+Space | 72 | Space can be dangerous.
+Space | 73 | The Earth is round.
+Space | 74 | There are many stars.
+Space | 75 | The rocket is very heavy.
+Space | 76 | You feel light in space.
+Space | 77 | Space is very quiet.
+Space | 78 | Birds fly, and rockets fly too.
+Space | 79 | We go to the moon.
+Space | 80 | I can see the stars.
+Space | 81 | Look at the big moon!
+Space | 82 | Astronauts float in space.
+Space | 83 | Meteors fall to Earth.
+Space | 84 | The stars shine bright.
+Space | 85 | Planets move around the sun.
+Space | 86 | The rocket does not stop.
+Space | 87 | The countdown starts now.
+Space | 88 | We live on planet Earth.
+Space | 89 | They build big spaceships.
+Space | 90 | Factories make satellites.
+Space | 91 | Scientists find new planets.
+Space | 92 | We want to travel to Mars.
+Sports | 1 | The player runs very fast.
+Sports | 2 | The coach helps the team.
+Sports | 3 | Our team plays well today.
+Sports | 4 | The fan cheers loudly.
+Sports | 5 | The referee watches the game.
+Sports | 6 | The winner gets a medal.
+Sports | 7 | The loser feels sad.
+Sports | 8 | The captain leads the team.
+Sports | 9 | I join a football club.
+Sports | 10 | The stadium is very big.
+Sports | 11 | The players run on the field.
+Sports | 12 | They play tennis on the court.
+Sports | 13 | I exercise at the gym.
+Sports | 14 | She swims in the pool.
+Sports | 15 | The race starts now.
+Sports | 16 | This game is fun.
+Sports | 17 | Sport is good for health.
+Sports | 18 | The score is two to one.
+Sports | 19 | He scores a goal.
+Sports | 20 | The ball is on the field.
+Sports | 21 | He holds a baseball bat.
+Sports | 22 | My racket is new.
+Sports | 23 | The ball hits the net.
+Sports | 24 | The player wears a glove.
+Sports | 25 | These shoes are for running.
+Sports | 26 | His shirt is red.
+Sports | 27 | I wear shorts for sport.
+Sports | 28 | One sock is wet.
+Sports | 29 | I ride a bicycle every day.
+Sports | 30 | The coach blows a whistle.
+Sports | 31 | She wins a gold medal.
+Sports | 32 | The team wins a trophy.
+Sports | 33 | I buy a ticket for the match.
+Sports | 34 | The timer shows ten seconds.
+Sports | 35 | We jump over the rope.
+Sports | 36 | The ball goes into the basket.
+Sports | 37 | The board shows the score.
+Sports | 38 | Children play football after school.
+Sports | 39 | I run in the morning.
+Sports | 40 | He can jump very high.
+Sports | 41 | She swims every weekend.
+Sports | 42 | He kicks the ball hard.
+Sports | 43 | Throw the ball to me.
+Sports | 44 | Can you catch the ball?
+Sports | 45 | She hits the ball well.
+Sports | 46 | We want to win the game.
+Sports | 47 | They lose the match today.
+Sports | 48 | He scores in the last minute.
+Sports | 49 | The team trains every day.
+Sports | 50 | I practice tennis after school.
+Sports | 51 | We watch the match at home.
+Sports | 52 | Fans cheer for their team.
+Sports | 53 | Pass the ball to me.
+Sports | 54 | The race starts at eight.
+Sports | 55 | The game finishes late.
+Sports | 56 | Players rest after the match.
+Sports | 57 | I exercise to stay healthy.
+Sports | 58 | Football is very popular.
+Sports | 59 | He plays basketball at school.
+Sports | 60 | Tennis needs a racket.
+Sports | 61 | Volleyball is a team sport.
+Sports | 62 | Badminton is fun and easy.
+Sports | 63 | Swimming is good exercise.
+Sports | 64 | Running makes me tired.
+Sports | 65 | Cycling is good for health.
+Sports | 66 | Boxing is a hard sport.
+Sports | 67 | Golf is a quiet sport.
+Sports | 68 | Baseball uses a bat.
+Sports | 69 | Rugby players are strong.
+Sports | 70 | Yoga helps me feel calm.
+Sports | 71 | Karate teaches self-control.
+Sports | 72 | Skiing is popular in winter.
+Sports | 73 | Surfing needs strong waves.
+Sports | 74 | Table tennis is very fast.
+Sports | 75 | Cricket is popular in India.
+Sports | 76 | Hiking is good for legs.
+Sports | 77 | Fishing is a quiet sport.
+Sports | 78 | The runner is very fast.
+Sports | 79 | The game is slow today.
+Sports | 80 | A strong player can run far.
+Sports | 81 | I feel weak after running.
+Sports | 82 | She is fit and active.
+Sports | 83 | Sport keeps us healthy.
+Sports | 84 | The players are tired.
+Sports | 85 | We are ready for the match.
+Sports | 86 | The referee is fair.
+Sports | 87 | This sport is safe for children.
+Sports | 88 | Boxing can be dangerous.
+Sports | 89 | Football is a popular sport.
+Sports | 90 | This game is easy to play.
+Sports | 91 | Tennis is difficult for me.
+Sports | 92 | The match is exciting.
+Sports | 93 | The game is boring today.
+Sports | 94 | The coach is proud of us.
+Sports | 95 | The brave player keeps running.
+Sports | 96 | Active children like sports.
+Sports | 97 | This sport is competitive.

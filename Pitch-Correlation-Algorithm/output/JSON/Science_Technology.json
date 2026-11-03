@@ -1,0 +1,1533 @@
+[
+  {
+    "stt": 1,
+    "sentence": "I use a computer at school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "use",
+      "computer",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "My phone is in my bag.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "phone",
+      "bag"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "This laptop is very light.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "laptop",
+      "light"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "The child uses a tablet.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "uses",
+      "tablet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The camera takes clear photos.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "camera",
+      "takes",
+      "clear",
+      "photos"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "The robot can move.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "robot",
+      "move"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "The drone flies above the field.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "drone",
+      "flies",
+      "field"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "This machine works fast.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "machine",
+      "works",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "Look at the screen.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Look",
+      "screen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "My keyboard is black.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "keyboard",
+      "black"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "Click the mouse once.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Click",
+      "mouse",
+      "once"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "The speaker is too loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "speaker",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "Speak into the microphone.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Speak",
+      "microphone"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "I need a phone charger.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "need",
+      "phone",
+      "charger"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "The battery is low.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "battery",
+      "low"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "This cable is too short.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "cable",
+      "short"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "A chip is inside the phone.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "chip",
+      "phone"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "The sensor checks light.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sensor",
+      "checks",
+      "light"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "The internet is very useful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "internet",
+      "useful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "This website is easy to use.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "website",
+      "easy",
+      "use"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "I use an app to learn English.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "use",
+      "app",
+      "learn",
+      "English"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "She sends an email.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "sends",
+      "email"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "I get a message from my friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "get",
+      "message",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "Keep your password safe.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Keep",
+      "password",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "I make a new account.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "make",
+      "new",
+      "account"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "The phone uses mobile data.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "phone",
+      "uses",
+      "mobile",
+      "data"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "Save the file now.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Save",
+      "file",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "Put the file in this folder.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Put",
+      "file",
+      "folder"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "This photo is very clear.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "photo",
+      "clear"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "We watch a science video.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "watch",
+      "science",
+      "video"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "This game uses new technology.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "game",
+      "uses",
+      "new",
+      "technology"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "The online map helps me.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "online",
+      "map",
+      "helps"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "A quick search gives an answer.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "quick",
+      "search",
+      "gives",
+      "answer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "I save photos in the cloud.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "save",
+      "photos",
+      "cloud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "The code makes the app work.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "code",
+      "makes",
+      "app",
+      "work"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "This software is easy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "software",
+      "easy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "Open the browser now.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Open",
+      "browser",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "The Wi-Fi is slow today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "Wi-Fi",
+      "slow",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "Science helps us understand life.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Science",
+      "helps",
+      "understand",
+      "life"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "Technology changes our work.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Technology",
+      "changes",
+      "work"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "Students work in the lab.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Students",
+      "work",
+      "lab"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "The experiment is simple.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "experiment",
+      "simple"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "Research takes a long time.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Research",
+      "takes",
+      "long",
+      "time"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "The scientist studies water.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "scientist",
+      "studies",
+      "water"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "The student asks a question.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "student",
+      "asks",
+      "question"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "The teacher explains science.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "teacher",
+      "explains",
+      "science"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "This idea is very new.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "idea",
+      "new"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "Science starts with a question.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Science",
+      "starts",
+      "question"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "The answer is on the screen.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "answer",
+      "screen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "This fact is interesting.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "fact",
+      "interesting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "Write the number in your book.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Write",
+      "number",
+      "book"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "The machine needs energy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "machine",
+      "needs",
+      "energy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "Light helps us see.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Light",
+      "helps",
+      "see"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "Sound travels through air.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sound",
+      "travels",
+      "air"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "Heat can change water.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Heat",
+      "change",
+      "water"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "Space is very large.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Space",
+      "large"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "Science helps make medicine.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Science",
+      "helps",
+      "make",
+      "medicine"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "The phone is a useful invention.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "phone",
+      "useful",
+      "invention"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "Type your name here.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Type",
+      "name",
+      "here"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Open the app now.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Open",
+      "app",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "Close the file after work.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Close",
+      "file",
+      "work"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "Save your work often.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Save",
+      "work",
+      "often"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Send the email to me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Send",
+      "email",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "I receive a message.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "receive",
+      "message"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "Download the photo.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Download",
+      "photo"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "Upload the video.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Upload",
+      "video"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "Search for the answer online.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Search",
+      "answer",
+      "online"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "Connect the phone to Wi-Fi.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Connect",
+      "phone",
+      "Wi-Fi"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "Charge the battery tonight.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Charge",
+      "battery",
+      "tonight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "Turn on the computer.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Turn",
+      "on",
+      "computer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "Turn off the screen.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Turn",
+      "off",
+      "screen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "They build a small robot.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "build",
+      "small",
+      "robot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "We test the new machine.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "test",
+      "new",
+      "machine"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "Measure the temperature.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Measure",
+      "temperature"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "Scientists study the stars.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Scientists",
+      "study",
+      "stars"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "People invent new tools.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "invent",
+      "new",
+      "tools"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "He repairs the old computer.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "repairs",
+      "old",
+      "computer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "This is a digital camera.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "digital",
+      "camera"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "A smart phone can do many things.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "smart",
+      "phone",
+      "do",
+      "things"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "We have an online class.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "online",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "The app works offline.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "app",
+      "works",
+      "offline"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "The internet is fast today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "internet",
+      "fast",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "My computer is slow.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "computer",
+      "slow"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "This is a new invention.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "new",
+      "invention"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "The old phone still works.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "old",
+      "phone",
+      "works"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "Technology is useful.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Technology",
+      "useful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "This app is easy to use.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "app",
+      "easy",
+      "use"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "Coding is difficult for me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Coding",
+      "difficult",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "A strong password is safe.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "strong",
+      "password",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "Keep your data private.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Keep",
+      "data",
+      "private"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "This website is public.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "website",
+      "public"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "Modern technology is powerful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Modern",
+      "technology",
+      "powerful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "The machine is simple.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "machine",
+      "simple"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "The door is automatic.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "door",
+      "automatic"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "An electric car is quiet.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "An",
+      "electric",
+      "car",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 96,
+    "sentence": "This computer is powerful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "computer",
+      "powerful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 97,
+    "sentence": "This app is popular.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "app",
+      "popular"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  }
+]

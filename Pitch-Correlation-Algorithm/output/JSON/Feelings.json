@@ -1,0 +1,1568 @@
+[
+  {
+    "stt": 1,
+    "sentence": "Love makes people happy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Love",
+      "makes",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "Happiness is important in life.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Happiness",
+      "important",
+      "life"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "Sadness can pass with time.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sadness",
+      "pass",
+      "time"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "Anger is a strong feeling.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Anger",
+      "strong",
+      "feeling"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "Fear can stop people.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fear",
+      "stop",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "Hope helps me try again.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Hope",
+      "helps",
+      "try",
+      "again"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "Joy shows on her face.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Joy",
+      "shows",
+      "face"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "Worry keeps me awake.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Worry",
+      "keeps",
+      "awake"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "Stress makes students tired.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Stress",
+      "makes",
+      "students",
+      "tired"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "The gift is a surprise.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "gift",
+      "surprise"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "Peace is good for the heart.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Peace",
+      "good",
+      "heart"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "Pride makes him smile.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Pride",
+      "makes",
+      "smile"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "Shame makes her quiet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Shame",
+      "makes",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "Trust is important in love.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Trust",
+      "important",
+      "love"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "Care makes friendship strong.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Care",
+      "makes",
+      "friendship",
+      "strong"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "Kindness can change a day.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Kindness",
+      "change",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "Friendship is a special gift.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Friendship",
+      "special",
+      "gift"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "This feeling is new to me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "feeling",
+      "new"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "Her heart is full of love.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "heart",
+      "full",
+      "love"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "A smile can show happiness.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "smile",
+      "show",
+      "happiness"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "My mother loves me.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "mother",
+      "loves",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "The child feels safe at home.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "feels",
+      "safe",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "My brother is my friend.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "brother",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "My sister smiles at me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "sister",
+      "smiles"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "My grandmother tells warm stories.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "grandmother",
+      "tells",
+      "warm",
+      "stories"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "My grandfather loves our family.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "grandfather",
+      "loves",
+      "family"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "Her husband is very kind.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "husband",
+      "kind"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "His wife makes him happy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "wife",
+      "makes",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "My partner supports me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "partner",
+      "supports"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "The couple looks happy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "couple",
+      "looks",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "Her boyfriend sends a message.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "boyfriend",
+      "sends",
+      "message"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "His girlfriend likes flowers.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "girlfriend",
+      "likes",
+      "flowers"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "A good friend listens to you.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "good",
+      "friend",
+      "listens"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "My best friend knows me well.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "best",
+      "friend",
+      "knows",
+      "well"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "Family gives me love.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Family",
+      "gives",
+      "love"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "Marriage needs trust and care.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Marriage",
+      "needs",
+      "trust",
+      "care"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "A hug can make me calm.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "hug",
+      "make",
+      "calm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "The mother gives a kiss.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "mother",
+      "gives",
+      "kiss"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "A good relationship needs respect.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "good",
+      "relationship",
+      "needs",
+      "respect"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "They have a date tonight.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "date",
+      "tonight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "The wedding is full of love.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "wedding",
+      "full",
+      "love"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "I give my friend a gift.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "give",
+      "friend",
+      "gift"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "She writes a love letter.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "writes",
+      "love",
+      "letter"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "He sends a kind message.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "sends",
+      "kind",
+      "message"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "A promise is important.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "promise",
+      "important"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "Friends can keep a secret.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Friends",
+      "keep",
+      "secret"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "This memory makes me smile.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "memory",
+      "makes",
+      "smile"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "Support helps me feel strong.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Support",
+      "helps",
+      "feel",
+      "strong"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "Her advice helps me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "advice",
+      "helps"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "I need help from a friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "need",
+      "help",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "Respect makes love stronger.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Respect",
+      "makes",
+      "love",
+      "stronger"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "We have a long talk.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "long",
+      "talk"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "The meeting is friendly.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "meeting",
+      "friendly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "The party makes everyone happy.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "party",
+      "makes",
+      "everyone",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "Her visit makes me happy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "visit",
+      "makes",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "His apology is honest.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "apology",
+      "honest"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "Thanks can show care.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Thanks",
+      "show",
+      "care"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "Goodbye can be sad.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Goodbye",
+      "sad"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "I love my family.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "love",
+      "family"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "I like my new friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "like",
+      "new",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "I miss my mother.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "miss",
+      "mother"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "Parents care for their children.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Parents",
+      "care",
+      "children"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Friends help each other.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Friends",
+      "help",
+      "other"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "I trust my best friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "trust",
+      "best",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "We share our feelings.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "share",
+      "feelings"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "She hugs her child.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "hugs",
+      "child"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "The mother kisses the baby.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "mother",
+      "kisses",
+      "baby"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "He smiles when he is happy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "smiles",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "The child cries at night.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "cries",
+      "night"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "We laugh at funny stories.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "laugh",
+      "funny",
+      "stories"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "I feel happy today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "feel",
+      "happy",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "We talk about our feelings.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "talk",
+      "feelings"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "Good friends listen carefully.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Good",
+      "friends",
+      "listen",
+      "carefully"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "I forgive my friend.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "forgive",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "I promise to help you.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "promise",
+      "help",
+      "you"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "I remember our first meeting.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "remember",
+      "first",
+      "meeting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "I thank my parents.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "thank",
+      "parents"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "My family supports me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "family",
+      "supports"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "I am happy with my friends.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "happy",
+      "friends"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "She feels sad today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "feels",
+      "sad",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "He is angry with me.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "angry"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "The child is afraid of the dark.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "afraid",
+      "dark"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "Old people can feel lonely.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Old",
+      "people",
+      "feel",
+      "lonely"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "I am excited to meet her.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "excited",
+      "meet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "His voice is calm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "voice",
+      "calm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "She is nervous before the date.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "nervous",
+      "date"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "My parents are proud of me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "parents",
+      "proud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "A kind friend helps you.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "kind",
+      "friend",
+      "helps"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "She is friendly and warm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "friendly",
+      "warm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "An honest person tells the truth.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "An",
+      "honest",
+      "person",
+      "tells",
+      "truth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "I am sorry for my mistake.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "sorry",
+      "mistake"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "That is a sweet message.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "That",
+      "sweet",
+      "message"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "She has a lovely smile.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "lovely",
+      "smile"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "Their love is strong.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Their",
+      "love",
+      "strong"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "We are close friends.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "close",
+      "friends"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 96,
+    "sentence": "He is shy with new people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "shy",
+      "new",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 97,
+    "sentence": "She is brave and honest.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "brave",
+      "honest"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 98,
+    "sentence": "I am thankful for your help.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "thankful",
+      "help"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  }
+]

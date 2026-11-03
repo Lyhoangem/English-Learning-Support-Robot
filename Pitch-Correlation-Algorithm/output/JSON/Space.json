@@ -1,0 +1,1468 @@
+[
+  {
+    "stt": 1,
+    "sentence": "The sun is big and hot.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "big",
+      "hot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "I see the moon at night.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "see",
+      "moon",
+      "night"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "The stars are very bright.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "stars",
+      "bright"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "The sky is blue today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sky",
+      "blue",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "Earth is a beautiful planet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Earth",
+      "beautiful",
+      "planet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "Mars is a red planet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Mars",
+      "red",
+      "planet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "Jupiter is a very big planet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Jupiter",
+      "big",
+      "planet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "Saturn has beautiful rings.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Saturn",
+      "beautiful",
+      "rings"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "Venus is very hot.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Venus",
+      "hot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "Mercury is near the sun.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Mercury",
+      "near",
+      "sun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "Neptune is a blue planet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Neptune",
+      "blue",
+      "planet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "Uranus is very cold.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Uranus",
+      "cold"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "Pluto is a small planet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Pluto",
+      "small",
+      "planet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "The world is very big.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "world",
+      "big"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "We can see the Milky Way.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "see",
+      "Milky",
+      "Way"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "The comet has a long tail.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "comet",
+      "long",
+      "tail"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "The asteroid is a big rock.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "asteroid",
+      "big",
+      "rock"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "Look! A meteor is falling.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Look",
+      "meteor",
+      "falling"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "There are clouds in the sky.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "There",
+      "clouds",
+      "sky"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "The sky is dark at night.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sky",
+      "dark",
+      "night"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "The sun shines during the day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "shines",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "The sun gives us light.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "gives",
+      "light"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "Space is very dark.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Space",
+      "dark"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "There is no air in space.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "There",
+      "no",
+      "air",
+      "space"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "There is no wind on the moon.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "There",
+      "no",
+      "wind",
+      "moon"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "The sun looks like fire.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "looks",
+      "fire"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "Some planets have ice.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Some",
+      "planets",
+      "ice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "Earth has a lot of water.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Earth",
+      "lot",
+      "water"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "The moon is made of rock.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "moon",
+      "made",
+      "rock"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "Jupiter is made of gas.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Jupiter",
+      "made",
+      "gas"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "The spaceship landed on the ground.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "spaceship",
+      "landed",
+      "ground"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "The moon makes a big shadow.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "moon",
+      "makes",
+      "big",
+      "shadow"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "The sun comes up in the morning.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "comes",
+      "up",
+      "morning"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "The sun goes down in the evening.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "goes",
+      "down",
+      "evening"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "I like to watch the sunrise.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "like",
+      "watch",
+      "sunrise"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "The sunset is very beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sunset",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "The astronaut flies a rocket.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "astronaut",
+      "flies",
+      "rocket"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "The rocket goes into space.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "rocket",
+      "goes",
+      "space"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "The spaceship is very fast.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "spaceship",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "Is that a green alien?",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Is",
+      "green",
+      "alien"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "The robot walks on Mars.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "robot",
+      "walks",
+      "Mars"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "The satellite flies around Earth.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "satellite",
+      "flies",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "I look at stars with a telescope.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "look",
+      "stars",
+      "telescope"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "He saw a UFO in the sky.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "saw",
+      "UFO",
+      "sky"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "Put on your helmet now.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Put",
+      "on",
+      "helmet",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "We need a star map.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "need",
+      "star",
+      "map"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "They talk using a radio.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "talk",
+      "using",
+      "radio"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "Take a photo with the camera.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Take",
+      "photo",
+      "camera"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "The computer drives the spaceship.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "computer",
+      "drives",
+      "spaceship"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "Look out of the spaceship window.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Look",
+      "out",
+      "spaceship",
+      "window"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "Close the rocket door.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Close",
+      "rocket",
+      "door"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "Astronauts wear big boots.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Astronauts",
+      "wear",
+      "big",
+      "boots"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "The space team works hard.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "space",
+      "team",
+      "works",
+      "hard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "The pilot flies the ship.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "pilot",
+      "flies",
+      "ship"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "The space ship is ready.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "space",
+      "ship",
+      "ready"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "They live in a space station.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "live",
+      "space",
+      "station"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "Look at the computer screen.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Look",
+      "computer",
+      "screen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "This is a picture of Earth.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "picture",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "The sun is very big.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "big"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Stars look small from Earth.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Stars",
+      "look",
+      "small",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "The sun is too hot.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "hot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "Space is very cold.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Space",
+      "cold"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "The moon is far away.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "moon",
+      "far",
+      "away"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "The satellite is near Earth.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "satellite",
+      "near",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "The rocket is very high.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "rocket",
+      "high"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "Rockets are very fast.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Rockets",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "The rover is very slow.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "rover",
+      "slow"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "The moon is beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "moon",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "They built a new rocket.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "built",
+      "new",
+      "rocket"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "The telescope is old.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "telescope",
+      "old"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "The spaceship is safe.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "spaceship",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "Space can be dangerous.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Space",
+      "dangerous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "The Earth is round.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "Earth",
+      "round"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "There are many stars.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "There",
+      "stars"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "The rocket is very heavy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "rocket",
+      "heavy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "You feel light in space.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "You",
+      "feel",
+      "light",
+      "space"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "Space is very quiet.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Space",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "Birds fly, and rockets fly too.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Birds",
+      "fly",
+      "rockets",
+      "fly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "We go to the moon.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "go",
+      "moon"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "I can see the stars.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "see",
+      "stars"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "Look at the big moon!",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Look",
+      "big",
+      "moon"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "Astronauts float in space.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Astronauts",
+      "float",
+      "space"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "Meteors fall to Earth.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Meteors",
+      "fall",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "The stars shine bright.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "stars",
+      "shine",
+      "bright"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "Planets move around the sun.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Planets",
+      "move",
+      "sun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "The rocket does not stop.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "rocket",
+      "not",
+      "stop"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "The countdown starts now.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "countdown",
+      "starts",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "We live on planet Earth.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "live",
+      "planet",
+      "Earth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "They build big spaceships.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "build",
+      "big",
+      "spaceships"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "Factories make satellites.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Factories",
+      "make",
+      "satellites"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "Scientists find new planets.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Scientists",
+      "find",
+      "new",
+      "planets"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "We want to travel to Mars.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "want",
+      "travel",
+      "Mars"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  }
+]

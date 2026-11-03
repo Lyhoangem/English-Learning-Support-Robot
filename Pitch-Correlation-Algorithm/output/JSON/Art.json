@@ -1,0 +1,1417 @@
+[
+  {
+    "stt": 1,
+    "sentence": "Art makes life beautiful.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Art",
+      "makes",
+      "life",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "The painting is colorful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "painting",
+      "colorful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "Her drawing is very nice.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "drawing",
+      "nice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "Music makes me happy.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Music",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The dance is beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "dance",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "The film is very funny.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "film",
+      "funny"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "This photo is clear.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "photo",
+      "clear"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "I like this picture.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "like",
+      "picture"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "The poem is short.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "poem",
+      "short"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "This novel is interesting.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "novel",
+      "interesting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "The drama starts tonight.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "drama",
+      "tonight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "The museum has old art.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "museum",
+      "old",
+      "art"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "The gallery is open today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "gallery",
+      "open",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "The concert is loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "concert",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "The sculpture is made of stone.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sculpture",
+      "made",
+      "stone"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "The performance is great.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "performance",
+      "great"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "The artist paints flowers.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "artist",
+      "paints",
+      "flowers"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "The painter uses bright colors.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "painter",
+      "bright",
+      "colors"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "The singer has a sweet voice.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "singer",
+      "sweet",
+      "voice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "The dancer moves beautifully.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "dancer",
+      "moves",
+      "beautifully"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "The actor is famous.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "actor",
+      "famous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "The actress smiles on stage.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "actress",
+      "smiles",
+      "stage"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "The writer writes stories.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "writer",
+      "writes",
+      "stories"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "The poet writes a short poem.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "poet",
+      "writes",
+      "short",
+      "poem"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "The musician plays the piano.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "musician",
+      "plays",
+      "piano"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "The photographer takes photos.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "photographer",
+      "takes",
+      "photos"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "The designer makes a new dress.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "designer",
+      "makes",
+      "new",
+      "dress"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "The audience claps loudly.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "audience",
+      "claps",
+      "loudly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "The fan likes the singer.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "fan",
+      "likes",
+      "singer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "The teacher teaches art.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "teacher",
+      "teaches",
+      "art"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "The student draws a house.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "student",
+      "draws",
+      "house"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "The band plays a new song.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "band",
+      "new",
+      "song"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "The film team works hard.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "film",
+      "team",
+      "works",
+      "hard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "The star acts very well.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "star",
+      "acts",
+      "well"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "The visitor looks at the art.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "visitor",
+      "looks",
+      "art"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "I paint with a brush.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "paint",
+      "brush"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "The paint is red.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "paint",
+      "red"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "I draw with a pencil.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "draw",
+      "pencil"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "She writes with a black pen.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "writes",
+      "black",
+      "pen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "This paper is white.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "paper",
+      "white"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "The canvas is on the wall.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "canvas",
+      "wall"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "Blue is my favorite color.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Blue",
+      "favorite",
+      "color"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "She plays the piano every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "plays",
+      "piano",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "The drum is very loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "drum",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "The violin sounds beautiful.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "violin",
+      "sounds",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "Sing into the microphone.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Sing",
+      "microphone"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "The singer stands on the stage.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "singer",
+      "stands",
+      "stage"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "The light is very bright.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "light",
+      "bright"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "I buy a concert ticket.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "buy",
+      "concert",
+      "ticket"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "The costume is colorful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "costume",
+      "colorful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "The actor wears a mask.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "actor",
+      "wears",
+      "mask"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "The picture has a gold frame.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "picture",
+      "gold",
+      "frame"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "She paints a flower.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "paints",
+      "flower"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "They sing a happy song.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "sing",
+      "happy",
+      "song"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "We dance at the party.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "dance",
+      "party"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "He plays the guitar.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "plays",
+      "guitar"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "The writer writes a story.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "writer",
+      "writes",
+      "story"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "We watch a film.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "watch",
+      "film"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "I listen to music.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "listen",
+      "music"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Artists create new things.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Artists",
+      "create",
+      "new",
+      "things"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "She designs a poster.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "designs",
+      "poster"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "The band performs on stage.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "band",
+      "performs",
+      "stage"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "He acts in a film.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "acts",
+      "film"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "Take a photo of the painting.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Take",
+      "photo",
+      "painting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "The museum shows old art.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "museum",
+      "shows",
+      "old",
+      "art"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "She practices singing every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "practices",
+      "singing",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "Children learn art at school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Children",
+      "learn",
+      "art",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "We visit the gallery.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "visit",
+      "gallery"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "I enjoy this song.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "enjoy",
+      "song"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "Artists share their ideas.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Artists",
+      "share",
+      "ideas"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "The painting is beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "painting",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "She is a creative artist.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "creative",
+      "artist"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "The picture is colorful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "picture",
+      "colorful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "Modern art can be simple.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Modern",
+      "art",
+      "simple"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "Traditional music is special.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Traditional",
+      "music",
+      "special"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "The singer is famous.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "singer",
+      "famous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "This song is popular.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "song",
+      "popular"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "The design is simple.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "design",
+      "simple"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "This dance is difficult.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "dance",
+      "difficult"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "The song is easy to sing.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "song",
+      "easy",
+      "sing"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "The story is sad.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "story",
+      "sad"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "The music is loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "music",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "The gallery is quiet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "gallery",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "The colors are bright.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "colors",
+      "bright"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "The photo is dark.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "photo",
+      "dark"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "The museum has old pictures.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "museum",
+      "old",
+      "pictures"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "This is a new song.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "new",
+      "song"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "The story is interesting.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "story",
+      "interesting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "The film is boring.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "film",
+      "boring"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  }
+]

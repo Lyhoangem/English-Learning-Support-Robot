@@ -1,0 +1,1555 @@
+[
+  {
+    "stt": 1,
+    "sentence": "The player runs very fast.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "player",
+      "runs",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "The coach helps the team.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "coach",
+      "helps",
+      "team"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "Our team plays well today.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "Our",
+      "team",
+      "plays",
+      "well",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "The fan cheers loudly.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "fan",
+      "cheers",
+      "loudly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The referee watches the game.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "referee",
+      "watches",
+      "game"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "The winner gets a medal.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "winner",
+      "gets",
+      "medal"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "The loser feels sad.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "loser",
+      "feels",
+      "sad"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "The captain leads the team.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "captain",
+      "leads",
+      "team"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "I join a football club.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "join",
+      "football",
+      "club"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "The stadium is very big.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "stadium",
+      "big"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "The players run on the field.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "players",
+      "run",
+      "field"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "They play tennis on the court.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "play",
+      "tennis",
+      "court"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "I exercise at the gym.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "exercise",
+      "gym"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "She swims in the pool.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "swims",
+      "pool"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "The race starts now.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "race",
+      "starts",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "This game is fun.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "game",
+      "fun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "Sport is good for health.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sport",
+      "good",
+      "health"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "The score is two to one.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "score",
+      "two",
+      "one"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "He scores a goal.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "scores",
+      "goal"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "The ball is on the field.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ball",
+      "field"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "He holds a baseball bat.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "holds",
+      "baseball",
+      "bat"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "My racket is new.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "racket",
+      "new"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "The ball hits the net.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ball",
+      "hits",
+      "net"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "The player wears a glove.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "player",
+      "wears",
+      "glove"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "These shoes are for running.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "These",
+      "shoes",
+      "running"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "His shirt is red.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "shirt",
+      "red"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "I wear shorts for sport.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "wear",
+      "shorts",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "One sock is wet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "One",
+      "sock",
+      "wet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "I ride a bicycle every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "ride",
+      "bicycle",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "The coach blows a whistle.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "coach",
+      "blows",
+      "whistle"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "She wins a gold medal.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "wins",
+      "gold",
+      "medal"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "The team wins a trophy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "team",
+      "wins",
+      "trophy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "I buy a ticket for the match.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "buy",
+      "ticket",
+      "match"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "The timer shows ten seconds.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "timer",
+      "shows",
+      "ten",
+      "seconds"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "We jump over the rope.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "jump",
+      "rope"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "The ball goes into the basket.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ball",
+      "goes",
+      "basket"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "The board shows the score.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "board",
+      "shows",
+      "score"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "Children play football after school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Children",
+      "play",
+      "football",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "I run in the morning.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "run",
+      "morning"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "He can jump very high.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "jump",
+      "high"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "She swims every weekend.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "swims",
+      "weekend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "He kicks the ball hard.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "kicks",
+      "ball",
+      "hard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "Throw the ball to me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Throw",
+      "ball",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "Can you catch the ball?",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Can",
+      "catch",
+      "ball"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "She hits the ball well.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "hits",
+      "ball",
+      "well"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "We want to win the game.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "want",
+      "win",
+      "game"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "They lose the match today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "They",
+      "lose",
+      "match",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "He scores in the last minute.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "scores",
+      "last",
+      "minute"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "The team trains every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "team",
+      "trains",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "I practice tennis after school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "practice",
+      "tennis",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "We watch the match at home.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "watch",
+      "match",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "Fans cheer for their team.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fans",
+      "cheer",
+      "team"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "Pass the ball to me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Pass",
+      "ball",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "The race starts at eight.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "race",
+      "starts",
+      "eight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "The game finishes late.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "game",
+      "finishes",
+      "late"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "Players rest after the match.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Players",
+      "rest",
+      "match"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "I exercise to stay healthy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "exercise",
+      "stay",
+      "healthy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "Football is very popular.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Football",
+      "popular"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "He plays basketball at school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "plays",
+      "basketball",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Tennis needs a racket.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Tennis",
+      "needs",
+      "racket"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "Volleyball is a team sport.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Volleyball",
+      "team",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "Badminton is fun and easy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Badminton",
+      "fun",
+      "easy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Swimming is good exercise.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Swimming",
+      "good",
+      "exercise"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "Running makes me tired.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Running",
+      "makes",
+      "tired"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "Cycling is good for health.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Cycling",
+      "good",
+      "health"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "Boxing is a hard sport.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Boxing",
+      "hard",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "Golf is a quiet sport.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Golf",
+      "quiet",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "Baseball uses a bat.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Baseball",
+      "uses",
+      "bat"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "Rugby players are strong.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Rugby",
+      "players",
+      "strong"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "Yoga helps me feel calm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Yoga",
+      "helps",
+      "calm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "Karate teaches self-control.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Karate",
+      "teaches",
+      "self-control"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "Skiing is popular in winter.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Skiing",
+      "popular",
+      "winter"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "Surfing needs strong waves.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Surfing",
+      "needs",
+      "strong",
+      "waves"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "Table tennis is very fast.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Table",
+      "tennis",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "Cricket is popular in India.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Cricket",
+      "popular",
+      "India"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "Hiking is good for legs.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Hiking",
+      "good",
+      "legs"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "Fishing is a quiet sport.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fishing",
+      "quiet",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "The runner is very fast.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "runner",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "The game is slow today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "game",
+      "slow",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "A strong player can run far.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "strong",
+      "player",
+      "run",
+      "far"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "I feel weak after running.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "feel",
+      "weak",
+      "running"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "She is fit and active.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "fit",
+      "active"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "Sport keeps us healthy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sport",
+      "keeps",
+      "healthy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "The players are tired.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "players",
+      "tired"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "We are ready for the match.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "ready",
+      "match"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "The referee is fair.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "referee",
+      "fair"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "This sport is safe for children.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "sport",
+      "safe",
+      "children"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "Boxing can be dangerous.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Boxing",
+      "dangerous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "Football is a popular sport.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Football",
+      "popular",
+      "sport"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "This game is easy to play.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "game",
+      "easy",
+      "play"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "Tennis is difficult for me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Tennis",
+      "difficult",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "The match is exciting.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "match",
+      "exciting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "The game is boring today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "game",
+      "boring",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "The coach is proud of us.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "coach",
+      "proud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "The brave player keeps running.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "brave",
+      "player",
+      "keeps",
+      "running"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 96,
+    "sentence": "Active children like sports.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Active",
+      "children",
+      "like",
+      "sports"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 97,
+    "sentence": "This sport is competitive.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "sport",
+      "competitive"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  }
+]

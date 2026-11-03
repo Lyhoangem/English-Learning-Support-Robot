@@ -1,0 +1,1601 @@
+[
+  {
+    "stt": 1,
+    "sentence": "People live in many countries.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "live",
+      "countries"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "A kind person helps others.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "kind",
+      "person",
+      "helps",
+      "others"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "My family eats dinner together.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "family",
+      "eats",
+      "dinner",
+      "together"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "My friend lives near me.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "friend",
+      "lives",
+      "near",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The group works together.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "group",
+      "works",
+      "together"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "She is a new member.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "new",
+      "member"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "A good citizen follows rules.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "good",
+      "citizen",
+      "follows",
+      "rules"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "Society needs good people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Society",
+      "needs",
+      "good",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "The park is open to the public.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "park",
+      "open",
+      "public"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "The volunteer helps old people.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "volunteer",
+      "helps",
+      "old",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "The worker cleans the street.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "worker",
+      "cleans",
+      "street"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "The leader speaks to the group.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "leader",
+      "speaks",
+      "group"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "A big crowd waits outside.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "big",
+      "crowd",
+      "waits",
+      "outside"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "Culture is important to people.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Culture",
+      "important",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "This tradition is very old.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "tradition",
+      "old"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "It is a local custom.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "It",
+      "local",
+      "custom"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "The festival is very fun.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "festival",
+      "fun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "We visit family on the holiday.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "visit",
+      "family",
+      "holiday"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "The ceremony starts at nine.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ceremony",
+      "starts",
+      "nine"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "The wedding is beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "wedding",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "We sing at the birthday party.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "sing",
+      "birthday",
+      "party"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "I give my mother a gift.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "give",
+      "mother",
+      "gift"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "This song is from my country.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "song",
+      "country"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "The dance looks very nice.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "dance",
+      "looks",
+      "nice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "Music brings people together.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Music",
+      "brings",
+      "people",
+      "together"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "My grandfather tells a story.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "grandfather",
+      "tells",
+      "story"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "Language is part of culture.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Language",
+      "part",
+      "culture"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "She wears a traditional costume.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "wears",
+      "traditional",
+      "costume"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "My village is quiet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "village",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "This town has many shops.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "town",
+      "shops"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "The city is busy at night.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "city",
+      "busy",
+      "night"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "My country has many festivals.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "country",
+      "festivals"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "The street is full of people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "street",
+      "full",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "The market sells fresh food.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "market",
+      "sells",
+      "fresh",
+      "food"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "The museum shows old things.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "museum",
+      "shows",
+      "old",
+      "things"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "People visit the temple.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "visit",
+      "temple"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "The church is very old.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "church",
+      "old"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "People meet in the square.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "meet",
+      "square"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "Families walk in the park.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Families",
+      "walk",
+      "park"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "School teaches children good values.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "School",
+      "teaches",
+      "children",
+      "good",
+      "values"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "Home is important to family.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Home",
+      "important",
+      "family"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "We eat local food at a restaurant.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "eat",
+      "local",
+      "food",
+      "restaurant"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "The community center is open.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "community",
+      "center",
+      "open"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "Every society has rules.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Every",
+      "society",
+      "rules"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "The law protects people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "law",
+      "protects",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "Children have the right to learn.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Children",
+      "right",
+      "learn"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "A good job helps a family.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "good",
+      "job",
+      "helps",
+      "a"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "Work is part of daily life.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Work",
+      "part",
+      "daily",
+      "life"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "People need money for food.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "need",
+      "money",
+      "food"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "Food shows local culture.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Food",
+      "shows",
+      "local",
+      "culture"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "A family meal is warm.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "family",
+      "meal",
+      "warm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "Many families live in small houses.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "Many",
+      "families",
+      "live",
+      "small",
+      "houses"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "Public transport helps many people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Public",
+      "transport",
+      "helps",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "Media changes our daily life.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Media",
+      "changes",
+      "daily",
+      "life"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "The news talks about society.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "news",
+      "society"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "Poverty is a big problem.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Poverty",
+      "big",
+      "problem"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "Poor families need support.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Poor",
+      "families",
+      "need",
+      "support"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "Respect is important in society.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Respect",
+      "important",
+      "society"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "Kindness makes people happy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Kindness",
+      "makes",
+      "people",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Trust is important between friends.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Trust",
+      "important",
+      "friends"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "People want to live in peace.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "want",
+      "live",
+      "peace"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "Safety is important for children.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Safety",
+      "important",
+      "children"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Freedom is important to people.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Freedom",
+      "important",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "Equality helps society grow.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Equality",
+      "helps",
+      "society",
+      "grow"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "Old people sometimes need help.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Old",
+      "people",
+      "need",
+      "help"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "Children need love and care.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Children",
+      "need",
+      "love",
+      "care"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "Every person has a voice.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Every",
+      "person",
+      "voice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "Many people live in cities.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Many",
+      "people",
+      "live",
+      "cities"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "People meet at the festival.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "meet",
+      "festival"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "We share food with neighbors.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "share",
+      "food",
+      "neighbors"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "Young people help old people.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "Young",
+      "people",
+      "help",
+      "old",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "We celebrate the new year.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "celebrate",
+      "new",
+      "year"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "We visit our grandparents.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "visit",
+      "grandparents"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "We respect older people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "respect",
+      "older",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "People follow local rules.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "follow",
+      "local",
+      "rules"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "The law protects citizens.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "law",
+      "protects",
+      "citizens"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "Society can change quickly.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Society",
+      "change",
+      "quickly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "Children learn culture at home.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Children",
+      "learn",
+      "culture",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "Parents teach good manners.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Parents",
+      "teach",
+      "good",
+      "manners"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "Neighbors talk in the morning.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Neighbors",
+      "talk",
+      "morning"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "Good leaders listen to people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Good",
+      "leaders",
+      "listen",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "Students join a volunteer group.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Students",
+      "join",
+      "volunteer",
+      "group"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "People are social.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "People",
+      "social"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "This is a cultural event.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "cultural",
+      "event"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "She wears traditional clothes.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "wears",
+      "traditional",
+      "clothes"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "Modern life is very fast.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Modern",
+      "life",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "Local people are friendly.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Local",
+      "people",
+      "friendly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "This is a national holiday.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "national",
+      "holiday"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "The village is friendly.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "village",
+      "friendly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "Polite words show respect.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Polite",
+      "words",
+      "show",
+      "respect"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "Kind people help others.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Kind",
+      "people",
+      "help",
+      "others"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "Poor families need help.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Poor",
+      "families",
+      "need",
+      "help"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "Rich countries can give support.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Rich",
+      "countries",
+      "give",
+      "support"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "A safe community is happy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "safe",
+      "community",
+      "happy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "The city street is busy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "city",
+      "street",
+      "busy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 96,
+    "sentence": "Different cultures have different food.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Different",
+      "cultures",
+      "different",
+      "food"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 97,
+    "sentence": "Culture is important to society.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Culture",
+      "important",
+      "society"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  }
+]

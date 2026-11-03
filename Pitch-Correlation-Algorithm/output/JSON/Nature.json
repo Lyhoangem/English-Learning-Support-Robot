@@ -1,0 +1,1442 @@
+[
+  {
+    "stt": 1,
+    "sentence": "Nature is all around us.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Nature",
+      "around"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "The mountain is very high.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "mountain",
+      "high"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "The hill is green.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "hill",
+      "green"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "The river flows slowly.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "river",
+      "flows",
+      "slowly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The lake is blue.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "lake",
+      "blue"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "The ocean is very deep.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ocean",
+      "deep"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "The beach has white sand.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "beach",
+      "white",
+      "sand"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "The island is small.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "island",
+      "small"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "The desert is hot and dry.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "desert",
+      "hot",
+      "dry"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "The valley is beautiful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "valley",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "The field is full of flowers.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "field",
+      "full",
+      "flowers"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "The cave is dark.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "cave",
+      "dark"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "The waterfall is very loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "waterfall",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "The sky is clear today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sky",
+      "clear",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "A white cloud is in the sky.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "white",
+      "cloud",
+      "sky"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "The stone is round.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "stone",
+      "round"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "Sand is hot under my feet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sand",
+      "hot",
+      "feet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "The path goes through the forest.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "path",
+      "goes",
+      "forest"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "The tree is very tall.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "tree",
+      "tall"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "This flower smells nice.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "flower",
+      "smells",
+      "nice"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "The grass is green.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "grass",
+      "green"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "A leaf falls from the tree.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "leaf",
+      "falls",
+      "tree"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "The root is under the soil.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "root",
+      "soil"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "A bird sits on the branch.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "bird",
+      "sits",
+      "branch"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "A seed can become a tree.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "seed",
+      "become",
+      "tree"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "Fruit grows on many trees.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fruit",
+      "grows",
+      "trees"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "Vegetables grow on the farm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Vegetables",
+      "grow",
+      "farm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "My garden has many flowers.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "garden",
+      "flowers"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "The farm has rice and corn.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "farm",
+      "rice",
+      "corn"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "A small bush grows near the wall.",
+    "tong_so_tu_nhan": 6,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "small",
+      "bush",
+      "grows",
+      "near",
+      "wall"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "Bamboo grows very fast.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Bamboo",
+      "grows",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "Rice grows in wet fields.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Rice",
+      "grows",
+      "wet",
+      "fields"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "This plant needs sunlight.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "plant",
+      "needs",
+      "sunlight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "This table is made of wood.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "table",
+      "made",
+      "wood"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "A red rose is on the table.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "red",
+      "rose",
+      "table"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "A sunflower turns to the sun.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "sunflower",
+      "turns",
+      "sun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "A mushroom grows after rain.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "mushroom",
+      "grows",
+      "rain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "The crop needs water.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "crop",
+      "needs",
+      "water"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "The weather is nice today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "weather",
+      "nice",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "The sun is bright.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "sun",
+      "bright"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "Rain helps plants grow.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Rain",
+      "helps",
+      "plants",
+      "grow"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "The wind is strong today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "wind",
+      "strong",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "The storm is very loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "storm",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "Snow covers the mountain.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Snow",
+      "covers",
+      "mountain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "Ice is cold and hard.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Ice",
+      "cold",
+      "hard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "Fog makes the road hard to see.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "Fog",
+      "makes",
+      "road",
+      "hard",
+      "see"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "A rainbow appears after rain.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "rainbow",
+      "appears",
+      "rain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "Thunder is very loud.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Thunder",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "Lightning lights the sky.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Lightning",
+      "lights",
+      "sky"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "Each season has different weather.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Each",
+      "season",
+      "different",
+      "weather"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "Flowers grow in spring.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Flowers",
+      "grow",
+      "spring"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "Summer is hot and sunny.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Summer",
+      "hot",
+      "sunny"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "Leaves fall in autumn.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Leaves",
+      "fall",
+      "autumn"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "The morning air is fresh.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "morning",
+      "air",
+      "fresh"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "The evening sky is orange.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "evening",
+      "sky",
+      "orange"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "Sunrise is beautiful.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Sunrise",
+      "beautiful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "We watch the sunset.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "watch",
+      "sunset"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "A bird flies in the sky.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "bird",
+      "flies",
+      "sky"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "Fish live in water.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fish",
+      "live",
+      "water"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "The dog runs in the field.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "dog",
+      "runs",
+      "field"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "The horse runs fast.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "horse",
+      "runs",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "The cow eats grass.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "cow",
+      "eats",
+      "grass"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Sheep live on the farm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Sheep",
+      "live",
+      "farm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "The goat climbs the hill.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "goat",
+      "climbs",
+      "hill"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "The chicken walks in the yard.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "chicken",
+      "walks",
+      "yard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "The duck swims in the lake.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "duck",
+      "swims",
+      "lake"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "A bee visits a flower.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "bee",
+      "visits",
+      "flower"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "A butterfly has colorful wings.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "butterfly",
+      "colorful",
+      "wings"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "An ant is very small.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "An",
+      "ant",
+      "small"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "A tiger lives in the forest.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "tiger",
+      "lives",
+      "forest"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "An elephant is very big.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "An",
+      "elephant",
+      "big"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "A monkey climbs a tree.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "monkey",
+      "climbs",
+      "tree"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "A snake moves on the ground.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "snake",
+      "moves",
+      "ground"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "A frog jumps near the pond.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "frog",
+      "jumps",
+      "pond"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "The turtle walks slowly.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "turtle",
+      "walks",
+      "slowly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "A whale lives in the ocean.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "whale",
+      "lives",
+      "ocean"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "Wild animals live in nature.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Wild",
+      "animals",
+      "live",
+      "nature"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "This lake is natural.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "lake",
+      "natural"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "The forest is green.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "forest",
+      "green"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "The desert is dry.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "desert",
+      "dry"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "The grass is wet after rain.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "grass",
+      "wet",
+      "rain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "Summer is hot.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Summer",
+      "hot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "The river is wide.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "river",
+      "wide"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "The valley is quiet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "valley",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "A storm can be dangerous.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "storm",
+      "dangerous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "The path is safe.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "path",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "Plants grow in spring.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Plants",
+      "grow",
+      "spring"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "Flowers bloom in the garden.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Flowers",
+      "bloom",
+      "garden"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "The river flows to the sea.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "river",
+      "flows",
+      "sea"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "Birds fly over the lake.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Birds",
+      "fly",
+      "lake"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  }
+]

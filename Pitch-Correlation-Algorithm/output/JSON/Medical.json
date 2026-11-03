@@ -1,0 +1,1541 @@
+[
+  {
+    "stt": 1,
+    "sentence": "The doctor helps sick people.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "doctor",
+      "helps",
+      "sick",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "The nurse is very kind.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "nurse",
+      "kind"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "The patient needs some rest.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "patient",
+      "needs",
+      "rest"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "I see the dentist today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "see",
+      "dentist",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "The pharmacist gives me medicine.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "pharmacist",
+      "gives",
+      "medicine"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "My father is at the hospital.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "father",
+      "hospital"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "The clinic opens at eight.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "clinic",
+      "opens",
+      "eight"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "The patient is in this room.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "patient",
+      "room"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "He lies on the hospital bed.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "lies",
+      "hospital",
+      "bed"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "The ambulance comes very fast.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "ambulance",
+      "comes",
+      "fast"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "This is an emergency.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "emergency"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "I have a doctor's appointment.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "doctor's",
+      "appointment"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "Please wait at reception.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Please",
+      "wait",
+      "reception"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "The health center is small.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "health",
+      "center",
+      "small"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "My head hurts today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "head",
+      "hurts",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "Wash your face every morning.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Wash",
+      "face",
+      "morning"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "My left eye is red.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "left",
+      "eye",
+      "red"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "Her ear hurts a little.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "ear",
+      "hurts",
+      "little"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "My nose is running.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "nose",
+      "running"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "Open your mouth, please.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Open",
+      "mouth"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "My tooth hurts at night.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "tooth",
+      "hurts",
+      "night"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "My throat is very sore.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "throat",
+      "sore"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "His neck feels painful.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "neck",
+      "feels",
+      "painful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "My shoulder hurts after work.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "shoulder",
+      "hurts",
+      "work"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "She has pain in her arm.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "pain",
+      "arm"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "Wash your hands before eating.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Wash",
+      "hands",
+      "eating"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "I cut my finger.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "cut",
+      "finger"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "He has chest pain.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "chest",
+      "pain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "My stomach hurts after lunch.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "stomach",
+      "hurts",
+      "lunch"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "My back is very painful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "back",
+      "painful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "His leg is broken.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "leg",
+      "broken"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "My knee hurts when I run.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "knee",
+      "hurts",
+      "run"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "Her foot is swollen.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "foot",
+      "swollen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "My skin feels dry.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "skin",
+      "feels",
+      "dry"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "Health is very important.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Health",
+      "important"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "This illness makes me tired.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "illness",
+      "makes",
+      "tired"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "This disease is serious.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "disease",
+      "serious"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "I have a cold today.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "cold",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "The flu makes him weak.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "flu",
+      "makes",
+      "weak"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "She has a high fever.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "high",
+      "fever"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "His cough is very loud.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "cough",
+      "loud"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "I have a bad headache.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "bad",
+      "headache"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "She has a stomachache.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "stomachache"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "A toothache can be painful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "toothache",
+      "painful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "I have a sore throat.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "a",
+      "sore"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "The pain is in my leg.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "pain",
+      "leg"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "This cut is very small.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "cut",
+      "small"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "The burn is on my hand.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "burn",
+      "hand"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "He has a sports injury.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "sports",
+      "injury"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "She has a food allergy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "food",
+      "allergy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "There is blood on his finger.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "There",
+      "blood",
+      "finger"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "A virus can make people sick.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "virus",
+      "make",
+      "sick"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "Germs can live on hands.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Germs",
+      "live",
+      "hands"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "Fever is a common symptom.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Fever",
+      "common",
+      "symptom"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "Take this medicine after lunch.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Take",
+      "medicine",
+      "lunch"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "I take one pill every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "take",
+      "pill",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "This tablet is for pain.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "tablet",
+      "pain"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "The child takes cough syrup.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "takes",
+      "cough",
+      "syrup"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "The nurse gives an injection.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "nurse",
+      "gives",
+      "injection"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "A vaccine helps protect us.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "vaccine",
+      "helps",
+      "protect"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "Put a bandage on the cut.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Put",
+      "bandage",
+      "cut"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "I need a plaster for my finger.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "need",
+      "plaster",
+      "finger"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "Wear a mask at the clinic.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Wear",
+      "mask",
+      "clinic"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "The doctor wears gloves.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "doctor",
+      "wears",
+      "gloves"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "Use a thermometer for fever.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Use",
+      "thermometer",
+      "fever"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "He uses a wheelchair.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "uses",
+      "wheelchair"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "She walks with a crutch.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "walks",
+      "crutch"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "The doctor looks at the X-ray.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "doctor",
+      "looks",
+      "X-ray"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "The doctor writes a prescription.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "doctor",
+      "writes",
+      "prescription"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "I feel better today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "feel",
+      "better",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "My arm hurts a lot.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "arm",
+      "hurts",
+      "lot"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "You should rest at home.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "You",
+      "rest",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "Sick people need to sleep.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Sick",
+      "people",
+      "need",
+      "sleep"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "Eat healthy food every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Eat",
+      "healthy",
+      "food",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "Drink warm water often.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Drink",
+      "warm",
+      "water",
+      "often"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "Take the medicine on time.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Take",
+      "medicine",
+      "time"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "The nurse checks my temperature.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "nurse",
+      "checks",
+      "temperature"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "Doctors treat sick people.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Doctors",
+      "treat",
+      "sick",
+      "people"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "The cut will heal soon.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "cut",
+      "heal",
+      "soon"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "Wash your hands with soap.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Wash",
+      "hands",
+      "soap"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "Brush your teeth twice a day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Brush",
+      "teeth",
+      "twice",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "Breathe slowly and deeply.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Breathe",
+      "slowly",
+      "deeply"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "I exercise in the morning.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "exercise",
+      "morning"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "He will recover soon.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "recover",
+      "soon"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "I am sick today.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "sick",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "She eats healthy food.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "eats",
+      "healthy",
+      "food"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "He feels weak after the flu.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "feels",
+      "weak",
+      "flu"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "My brother is strong and healthy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "brother",
+      "strong",
+      "healthy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "I feel tired after work.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "feel",
+      "tired",
+      "work"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "The cut is painful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "cut",
+      "painful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "This illness is serious.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "illness",
+      "serious"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "Clean hands keep us safe.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Clean",
+      "hands",
+      "keep",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "Dirty hands can carry germs.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Dirty",
+      "hands",
+      "carry",
+      "germs"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "This medicine is safe.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "medicine",
+      "safe"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "Some diseases are dangerous.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Some",
+      "diseases",
+      "dangerous"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 96,
+    "sentence": "A cold is very common.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "cold",
+      "common"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 97,
+    "sentence": "Fresh air is good for health.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Fresh",
+      "air",
+      "good",
+      "health"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  }
+]

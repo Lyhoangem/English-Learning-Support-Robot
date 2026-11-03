@@ -1,0 +1,1551 @@
+[
+  {
+    "stt": 1,
+    "sentence": "My school is near my house.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "school",
+      "near",
+      "house"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 2,
+    "sentence": "Our class starts at seven.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Our",
+      "class",
+      "starts",
+      "seven"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 3,
+    "sentence": "The classroom is clean today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "classroom",
+      "clean",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 4,
+    "sentence": "I put my book on the desk.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "put",
+      "book",
+      "desk"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 5,
+    "sentence": "This chair is small.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "chair",
+      "small"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 6,
+    "sentence": "The teacher writes on the board.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "teacher",
+      "writes",
+      "board"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 7,
+    "sentence": "I read a book every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "read",
+      "book",
+      "every"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 8,
+    "sentence": "My notebook is in my bag.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "notebook",
+      "bag"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 9,
+    "sentence": "I need a blue pen.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "need",
+      "blue",
+      "pen"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 10,
+    "sentence": "She uses a pencil to draw.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "uses",
+      "pencil",
+      "draw"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 11,
+    "sentence": "His school bag is heavy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "school",
+      "bag",
+      "heavy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 12,
+    "sentence": "Please give me some paper.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Please",
+      "give",
+      "paper"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 13,
+    "sentence": "Open your book to page ten.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Open",
+      "book",
+      "page",
+      "ten"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 14,
+    "sentence": "I use a ruler in math class.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "use",
+      "ruler",
+      "math",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "stt": 15,
+    "sentence": "This eraser is on my desk.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "eraser",
+      "desk"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 16,
+    "sentence": "We use a computer at school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "use",
+      "computer",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 17,
+    "sentence": "The library has many books.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "library",
+      "books"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 18,
+    "sentence": "I wear a uniform to school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "wear",
+      "uniform",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 19,
+    "sentence": "The school bell rings loudly.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "school",
+      "bell",
+      "rings",
+      "loudly"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 20,
+    "sentence": "I do my homework after dinner.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "do",
+      "homework",
+      "dinner"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 21,
+    "sentence": "The student is reading a book.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "student",
+      "reading",
+      "book"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 22,
+    "sentence": "My teacher is very kind.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "teacher",
+      "kind"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 23,
+    "sentence": "My classmate helps me study.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "classmate",
+      "helps",
+      "study"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 24,
+    "sentence": "I study English with my friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "study",
+      "English",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 25,
+    "sentence": "The principal talks to the students.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "principal",
+      "talks",
+      "students"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 26,
+    "sentence": "My parent comes to school today.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "parent",
+      "comes",
+      "school",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 27,
+    "sentence": "I have a tutor for English.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "tutor",
+      "English"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 28,
+    "sentence": "The librarian gives me a book.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "librarian",
+      "gives",
+      "book"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "stt": 29,
+    "sentence": "The child learns new words.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "child",
+      "learns",
+      "new",
+      "words"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 30,
+    "sentence": "We work in a small group.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "work",
+      "small",
+      "group"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 31,
+    "sentence": "English is my favorite subject.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "English",
+      "favorite",
+      "subject"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 32,
+    "sentence": "Math is difficult for me.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Math",
+      "difficult"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 33,
+    "sentence": "History teaches us about the past.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "History",
+      "teaches",
+      "past"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "stt": 34,
+    "sentence": "Geography helps me know places.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Geography",
+      "helps",
+      "know",
+      "places"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 35,
+    "sentence": "I draw pictures in art class.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "draw",
+      "pictures",
+      "art",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 36,
+    "sentence": "Music class is fun.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Music",
+      "class",
+      "fun"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 37,
+    "sentence": "We run in PE class.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "run",
+      "PE",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 38,
+    "sentence": "Biology is about living things.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Biology",
+      "living",
+      "things"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 39,
+    "sentence": "Chemistry can be hard.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Chemistry",
+      "hard"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 40,
+    "sentence": "Physics is about light and sound.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Physics",
+      "light",
+      "sound"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 41,
+    "sentence": "A new language takes time.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "A",
+      "new",
+      "language",
+      "takes",
+      "time"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 42,
+    "sentence": "My best subject is English.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "best",
+      "subject",
+      "English"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 43,
+    "sentence": "The lesson is short and easy.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "lesson",
+      "short",
+      "easy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 44,
+    "sentence": "I ask a question in class.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "ask",
+      "question",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 45,
+    "sentence": "Her answer is correct.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Her",
+      "answer",
+      "correct"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 46,
+    "sentence": "This exercise is easy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "exercise",
+      "easy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 47,
+    "sentence": "We have a test on Friday.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "test",
+      "Friday"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 48,
+    "sentence": "The exam starts at nine.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "exam",
+      "starts",
+      "nine"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 49,
+    "sentence": "I got a good grade.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "got",
+      "good",
+      "grade"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 50,
+    "sentence": "My mark is better now.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "mark",
+      "better",
+      "now"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 51,
+    "sentence": "His score is very high.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "His",
+      "score",
+      "high"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 52,
+    "sentence": "I made a small mistake.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "made",
+      "small",
+      "mistake"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 53,
+    "sentence": "We follow the class rules.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "follow",
+      "class",
+      "rules"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 54,
+    "sentence": "Our project is about schools.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Our",
+      "project",
+      "schools"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 55,
+    "sentence": "I give a short presentation.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "give",
+      "short",
+      "presentation"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 56,
+    "sentence": "She writes an essay at home.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "writes",
+      "essay",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 57,
+    "sentence": "I write a note in my book.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "write",
+      "note",
+      "book"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "stt": 58,
+    "sentence": "I learn English every day.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "learn",
+      "English",
+      "day"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 59,
+    "sentence": "We study at the library.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "study",
+      "library"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 60,
+    "sentence": "Please write your name.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Please",
+      "write",
+      "name"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 61,
+    "sentence": "Students listen to the teacher.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Students",
+      "listen",
+      "teacher"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "stt": 62,
+    "sentence": "I speak English in class.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "speak",
+      "English",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 63,
+    "sentence": "You can ask the teacher.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "You",
+      "ask",
+      "teacher"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 64,
+    "sentence": "Repeat the word after me.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Repeat",
+      "word",
+      "me"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 65,
+    "sentence": "I practice speaking at home.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "practice",
+      "speaking",
+      "home"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 66,
+    "sentence": "I remember the new words.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "remember",
+      "new",
+      "words"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 67,
+    "sentence": "Do not forget your homework.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Do",
+      "not",
+      "forget",
+      "homework"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 68,
+    "sentence": "I understand this lesson.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "understand",
+      "lesson"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 69,
+    "sentence": "The teacher explains the answer.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "teacher",
+      "explains",
+      "answer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 70,
+    "sentence": "She teaches English at school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "teaches",
+      "English",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 71,
+    "sentence": "My friend helps me learn.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "friend",
+      "helps",
+      "learn"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 72,
+    "sentence": "We share one book.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "share",
+      "one",
+      "book"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "stt": 73,
+    "sentence": "I finish my homework early.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "finish",
+      "homework",
+      "early"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 74,
+    "sentence": "She wants to pass the exam.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "wants",
+      "pass",
+      "exam"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 75,
+    "sentence": "I do not want to fail.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "not",
+      "want",
+      "fail"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "stt": 76,
+    "sentence": "He joins an English club.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "joins",
+      "English",
+      "club"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 77,
+    "sentence": "I choose science this year.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "choose",
+      "science",
+      "year"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 78,
+    "sentence": "Please check your answer.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Please",
+      "check",
+      "answer"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 79,
+    "sentence": "Do not copy your friend.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "Do",
+      "not",
+      "copy",
+      "friend"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 80,
+    "sentence": "Can you spell this word?",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "Can",
+      "spell",
+      "word"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 81,
+    "sentence": "This lesson is easy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "lesson",
+      "easy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 82,
+    "sentence": "The exam is difficult.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "exam",
+      "difficult"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 83,
+    "sentence": "Education is important.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Education",
+      "important"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3
+    ]
+  },
+  {
+    "stt": 84,
+    "sentence": "This book is useful.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "This",
+      "book",
+      "useful"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 85,
+    "sentence": "The lesson is boring today.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "lesson",
+      "boring",
+      "today"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 86,
+    "sentence": "Science is very interesting.",
+    "tong_so_tu_nhan": 2,
+    "cac_tu_duoc_nhan": [
+      "Science",
+      "interesting"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4
+    ]
+  },
+  {
+    "stt": 87,
+    "sentence": "The library is quiet.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "library",
+      "quiet"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 88,
+    "sentence": "The teacher is busy.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "teacher",
+      "busy"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "stt": 89,
+    "sentence": "I am late for class.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "late",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "stt": 90,
+    "sentence": "She comes to school early.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "She",
+      "comes",
+      "school",
+      "early"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 91,
+    "sentence": "We have an online class.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "We",
+      "online",
+      "class"
+    ],
+    "vi_tri_nhan": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 92,
+    "sentence": "He goes to a private school.",
+    "tong_so_tu_nhan": 4,
+    "cac_tu_duoc_nhan": [
+      "He",
+      "goes",
+      "private",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "stt": 93,
+    "sentence": "My sister studies at a public school.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "My",
+      "sister",
+      "studies",
+      "public",
+      "school"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "stt": 94,
+    "sentence": "The school gives free books.",
+    "tong_so_tu_nhan": 5,
+    "cac_tu_duoc_nhan": [
+      "The",
+      "school",
+      "gives",
+      "free",
+      "books"
+    ],
+    "vi_tri_nhan": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "stt": 95,
+    "sentence": "I am ready for the test.",
+    "tong_so_tu_nhan": 3,
+    "cac_tu_duoc_nhan": [
+      "I",
+      "ready",
+      "test"
+    ],
+    "vi_tri_nhan": [
+      1,
+      3,
+      6
+    ]
+  }
+]
